@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: static/admin
-webhook_url: 'https://api.stackbit.com/project/6093f8d7856b9e00166f0bf5/webhook/forestry'
+webhook_url: https://api.stackbit.com/project/6093f8d7856b9e00166f0bf5/webhook/forestry
 sections:
 - type: document
   path: config.yaml
@@ -13,7 +13,7 @@ sections:
   path: data/team
   label: Person
   create: all
-  match: '**/*'
+  match: "**/*"
   new_doc_ext: yaml
   templates:
   - person
@@ -21,7 +21,7 @@ sections:
   path: data/categories
   label: Category
   create: all
-  match: '**/*'
+  match: "**/*"
   new_doc_ext: yaml
   templates:
   - category
@@ -29,7 +29,7 @@ sections:
   path: data/tags
   label: Tag
   create: all
-  match: '**/*'
+  match: "**/*"
   new_doc_ext: yaml
   templates:
   - tag
@@ -37,15 +37,23 @@ sections:
   path: content
   label: Pages
   create: all
-  match: '**/*'
+  match: "**/*"
   new_doc_ext: md
   templates:
   - page
   - post
   - advanced
 upload_dir: static/images
-public_path: /images
+public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ':filename:'
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.47
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
 version: 0.80.0

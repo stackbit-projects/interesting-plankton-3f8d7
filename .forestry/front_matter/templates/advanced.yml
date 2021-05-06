@@ -35,8 +35,8 @@ fields:
   config:
     required: true
 pages:
-- contact.md
-- faq.md
-- _index.md
-- pricing.md
-- thank-you.md
+- content/_index.md
+- content/contact.md
+- content/faq.md
+- content/pricing.md
+- content/thank-you.md

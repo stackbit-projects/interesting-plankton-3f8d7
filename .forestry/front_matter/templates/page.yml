@@ -24,7 +24,7 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- privacy-policy.md
-- style-guide.md
-- terms-conditions.md
+- content/about.md
+- content/privacy-policy.md
+- content/style-guide.md
+- content/terms-conditions.md
