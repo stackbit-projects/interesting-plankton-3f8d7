@@ -10,7 +10,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Contact Me
+        label: Contactez-nous
         url: /contact
         style: primary
     image: images/hero.png
