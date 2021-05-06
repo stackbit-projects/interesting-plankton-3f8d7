@@ -114,7 +114,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>
-  domain: 'https://interesting-plankton-3f8d7.netlify.app'
+  domain: 'https://votreconseillernum.netlify.app/'
 taxonomies:
   stub: stub
 disableKinds:
