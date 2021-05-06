@@ -11,7 +11,7 @@ sections:
         label: Contactez-nous
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/capture-d-ecran-2021-05-05-a-11-02-02.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
