@@ -26,7 +26,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Contact me
+        label: Contactez-nous
         url: /contact
         style: link
     has_secondary_nav: false
