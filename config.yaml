@@ -5,7 +5,7 @@ params:
   style: classic
   palette: red
   mode: light
-  base_font: sans-serif
+  base_font: serif
   header:
     type: header
     template: header
