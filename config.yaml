@@ -21,7 +21,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Qui sommes-nous !
+        label: Qui sommes-nous
         url: /about
         style: link
       - type: action
