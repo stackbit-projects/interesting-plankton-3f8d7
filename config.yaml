@@ -3,7 +3,7 @@ baseURL: /
 params:
   layout_type: boxed
   style: classic
-  palette: green
+  palette: red
   mode: light
   base_font: serif
   header:
