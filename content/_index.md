@@ -72,16 +72,7 @@ sections:
     grid_gap_vert: medium
     grid_gap_horiz: medium
     align: center
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: features_section
     template: features_section
     title: My services
