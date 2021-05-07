@@ -81,10 +81,9 @@ sections:
         template: feature
         title: Choisir les bons outils
         subtitle: Pour réussir votre projets plus facilement
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Site web, boutique en ligne, application mobile, plateforme métier,
+          publicité digitale, sécurité informatique...
         actions:
           - type: action
             template: action
