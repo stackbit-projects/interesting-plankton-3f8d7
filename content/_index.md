@@ -148,7 +148,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Leur
-    subtitle: Nos Conseillers Numériques
+    subtitle: Un interlocuteur unique qui mobilse notre réseau de compétences
     grid_items:
       - type: grid_item
         template: grid_item
