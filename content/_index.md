@@ -26,7 +26,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Quelques outils et technos que nous aimons bien
-    subtitle: Who I work with
+    subtitle: Solutions
     grid_items:
       - type: grid_item
         template: grid_item
