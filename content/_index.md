@@ -25,7 +25,7 @@ sections:
     background_image_repeat: repeat
   - type: grid_section
     template: grid_section
-    title: Faire les bons choix parmi les meilleures solutions
+    title: Faîtes les bons choix parmi les meilleures solutions
     grid_items:
       - type: grid_item
         template: grid_item
