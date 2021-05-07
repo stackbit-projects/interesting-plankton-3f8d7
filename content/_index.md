@@ -124,10 +124,11 @@ sections:
         template: feature
         title: Trouver les bons partenaires
         subtitle: Pour s'éviter de mauvaises surprises
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Entreprises de services numériques, agences digitales, freelances,
+          hébergeurs... Pas facile d'étudier et comparer les offres, de vérifier
+          les compétences et surtout la qualité du travail réalisé. Nous sommes
+          là pour vous guider !
         actions:
           - type: action
             template: action
