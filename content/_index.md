@@ -72,7 +72,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     actions: []
-    subtitle: 'Chaque projet est unique, mais voici quelques'
+    subtitle: BOITE A OUTILS
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
