@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Un projet digital ? Mettons-le sur bons rails
+    title: Un projet digital ? Mettons-le sur de bons rails
     subtitle: "Besoin d'un conseil ou d'être accompagné dans votre projet. Nous sommes-là pour vous aider ! \U0001F91D"
     actions:
       - type: action
