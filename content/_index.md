@@ -72,6 +72,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     actions: []
+    subtitle: Avec vous
   - type: features_section
     template: features_section
     title: My services
