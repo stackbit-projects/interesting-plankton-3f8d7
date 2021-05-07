@@ -164,7 +164,7 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          La clé d'un projet réussit  ? Faire ce qui est nécessaire, rien de
+          La clé d'un projet réussi  ? Faire ce qui est nécessaire, rien de
           plus, rien de moins.
 
 
