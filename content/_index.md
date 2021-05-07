@@ -148,7 +148,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: Nos Conseillers Numériques
     grid_items:
       - type: grid_item
         template: grid_item
