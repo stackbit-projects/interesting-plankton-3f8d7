@@ -6,7 +6,9 @@ sections:
     title: Un projet digital ? Mettons-le sur bons rails
     subtitle: >-
       Besoin d'un conseil ou d'être accompagné dans votre projet. Nous sommes-là
-      pour vous aider
+      pour vous aider 
+
+      U+1F91D
     actions:
       - type: action
         template: action
