@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: 'Hello, nous sommes là pour vos aider !'
+    title: Un projet digital ? Mettez le sur bons rails
     subtitle: "I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price \U0001F91D"
     actions:
       - type: action
