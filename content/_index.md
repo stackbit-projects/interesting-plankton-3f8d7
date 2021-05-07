@@ -4,11 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Un projet digital ? Mettons-le sur bons rails
-    subtitle: >-
-      Besoin d'un conseil ou d'être accompagné dans votre projet. Nous sommes-là
-      pour vous aider 
-
-      U+1F91D
+    subtitle: "Besoin d'un conseil ou d'être accompagné dans votre projet. Nous sommes-là pour vous aider ! \U0001F91D"
     actions:
       - type: action
         template: action
