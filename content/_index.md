@@ -157,7 +157,7 @@ sections:
           for our apps in all levels of user touchpoints.
 
 
-          \*\*Jean\*\* *a.k.a.* "Ptit Jean"  *Dev Fullstack*
+          **Jean ***a.k.a.* "Ptit Jean"  *Dev Fullstack*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
