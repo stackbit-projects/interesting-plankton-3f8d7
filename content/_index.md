@@ -100,7 +100,7 @@ sections:
         media_width: sixty
       - type: feature
         template: feature
-        title: Sélectionner les
+        title: Sélectionner les meilleures technos
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
