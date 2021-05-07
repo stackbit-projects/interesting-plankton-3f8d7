@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS ET TECHNOS
-    title: Des conseils avisés
+    title: Des conseils avisés pour trouver chassure à son pied...
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
