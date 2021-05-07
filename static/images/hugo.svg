@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="hugo.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hugo icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1564"
+     inkscape:window-height="872"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">Hugo icon</title>
+  <path
+     d="M 6.2340568,12.688311 A 1.8843388,1.8843388 0 0 0 5.2683197,12.969217 L 2.2636529,14.824334 A 2.0040539,2.0040539 0 0 0 1.313,16.528158 v 3.784701 c 0,0.694259 0.3723429,1.337607 0.974219,1.684496 l 3.0569836,1.759442 a 1.8287223,1.8287223 0 0 0 1.8075125,0.0086 L 10.471221,21.896055 A 1.7990298,1.7990298 0 0 0 11.387,20.329824 v -3.98784 A 1.6826135,1.6826135 0 0 0 10.550878,14.888432 L 7.2063883,12.943295 A 1.8843388,1.8843388 0 0 0 6.2340568,12.688781 Z m 0.010362,0.78899 c 0.1946547,-0.0027 0.3902522,0.04713 0.5655853,0.148463 l 3.3440199,1.945141 c 0.275247,0.160251 0.443509,0.452465 0.443039,0.770608 v 3.988311 c 0,0.364804 -0.195128,0.699439 -0.513269,0.878541 L 6.7647584,23.077628 A 1.0364334,1.0364334 0 0 1 5.73775,23.072375 L 2.6812435,21.312874 A 1.153321,1.153321 0 0 1 2.1024623,20.312309 v -3.7847 c 0,-0.420889 0.2172789,-0.810675 0.5754819,-1.032196 L 5.683081,13.640767 A 1.0948773,1.0948773 0 0 1 6.2439538,13.47722 Z m -2.2152031,1.811755 v 6.057406 h 1.267856 v -2.648817 h 2.1020857 v 2.648817 H 8.6698378 V 15.289056 H 7.3991565 v 2.206248 H 5.2970708 v -2.206248 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="stroke-width:0.47132009" />
+</svg>
