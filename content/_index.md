@@ -122,7 +122,7 @@ sections:
         media_width: sixty
       - type: feature
         template: feature
-        title: Trouver des prestataires et évaluer leur travail
+        title: Trouver les bons partenaires
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
