@@ -143,6 +143,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    subtitle: 'Nos services :'
   - type: grid_section
     template: grid_section
     title: Testimonials
