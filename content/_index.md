@@ -121,7 +121,7 @@ sections:
         media_width: sixty
       - type: feature
         template: feature
-        title: 'Trouver et évaluer '
+        title: Trouver et évaluer des partenaires
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
