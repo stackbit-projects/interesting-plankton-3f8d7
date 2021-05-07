@@ -79,7 +79,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Choisir les bon outils
+        title: Choisir les bons outils
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
