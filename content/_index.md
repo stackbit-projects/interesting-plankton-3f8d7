@@ -103,10 +103,9 @@ sections:
         template: feature
         title: Sélectionner les meilleures technos
         subtitle: Pour construire de façon durable
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          Trouver des solutions techniques simples et efficaces, tout à la fois
+          rapides, robustes et pérennes, voilà notre mission.
         actions:
           - type: action
             template: action
