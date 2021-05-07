@@ -25,7 +25,7 @@ sections:
     background_image_repeat: repeat
   - type: grid_section
     template: grid_section
-    title: Outils et technos que nous aimons bien...
+    title: Faire les bons choix parmi les meilleures solutions
     grid_items:
       - type: grid_item
         template: grid_item
