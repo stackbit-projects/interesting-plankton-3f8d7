@@ -174,13 +174,12 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+        content: >
+          Tous les systèmes d'information ont des failles. La question est de
+          savoir qui les trouvera en premier !
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Mickael,** *Adminsys*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
