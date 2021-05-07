@@ -148,7 +148,7 @@ sections:
   - type: grid_section
     template: grid_section
     title: Votre Conseiller Numérique
-    subtitle: Un interlocuteur unique qui mobilise un réseau de compétences
+    subtitle: Un interlocuteur unique qui mobilise un large réseau d'expertises
     grid_items:
       - type: grid_item
         template: grid_item
