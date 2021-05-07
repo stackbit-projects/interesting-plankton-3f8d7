@@ -28,7 +28,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        image: /images/hugo.svg
+        image: /images/nuxt-dot-js.svg
         image_alt: Logo 1
         image_align: center
       - type: grid_item
