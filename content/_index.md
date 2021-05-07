@@ -123,7 +123,7 @@ sections:
       - type: feature
         template: feature
         title: Trouver les bons partenaires
-        subtitle: 'Your products and services, at scale.'
+        subtitle: Pour s'éviter
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
