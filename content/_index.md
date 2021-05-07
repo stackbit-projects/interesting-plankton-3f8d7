@@ -163,12 +163,12 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+        content: >
+          La clé d'un projet réussit  ? Faire ce qui est nécessaire, rien de
+          plus, rien de moins.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Oscar,** Srum Master
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
