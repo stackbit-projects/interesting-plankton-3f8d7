@@ -153,8 +153,8 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          La bonne techno, au bon moment pour le bon usage, c'est la clé d'un
-          projet réussi et beaucoup moins de prises de tête plus tard !
+          La clé d'un projet réussi ? La bonne techno, au bon moment pour le bon
+          usage.
 
 
           **Jean** *a.k.a.* "Ptit Jean"  *Dev Fullstack*
