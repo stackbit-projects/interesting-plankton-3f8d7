@@ -75,7 +75,6 @@ sections:
   - type: features_section
     template: features_section
     title: My services
-    subtitle: What I do
     features:
       - type: feature
         template: feature
