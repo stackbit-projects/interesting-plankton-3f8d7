@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS ET TECHNOS
-    title: Parmi ceux que nous aimons et
+    title: Des conseils avisés
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
