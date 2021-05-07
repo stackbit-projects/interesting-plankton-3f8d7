@@ -185,12 +185,12 @@ sections:
         image_width: twenty-five
       - type: grid_item
         template: grid_item
-        content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+        content: >
+          S'appuyer sur la data, segmenter, tester et  ajuster en temps réel :
+          les bases d'une campagne digitale efficace. 
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Charline,** *Consultante en e-marketing*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
