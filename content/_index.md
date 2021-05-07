@@ -72,7 +72,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     actions: []
-    subtitle: BOITE A OUTILS
+    subtitle: OUTILS ET TECHNOS
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
