@@ -25,7 +25,7 @@ sections:
     background_image_repeat: repeat
   - type: grid_section
     template: grid_section
-    title: Trusted by Companies Big and Small
+    title: Quelques outils et technos que nous aimons bien
     subtitle: Who I work with
     grid_items:
       - type: grid_item
