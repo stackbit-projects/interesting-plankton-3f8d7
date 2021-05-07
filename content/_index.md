@@ -153,11 +153,11 @@ sections:
       - type: grid_item
         template: grid_item
         content: >
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+          La bonne techno, au bon moment pour la bonne personne, c'est la clé
+          d'un projet réussi. 
 
 
-          **Jean ***a.k.a.* "Ptit Jean"  *Dev Fullstack*
+          **Jean** *a.k.a.* "Ptit Jean"  *Dev Fullstack*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
