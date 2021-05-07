@@ -123,7 +123,7 @@ sections:
       - type: feature
         template: feature
         title: Trouver les bons partenaires
-        subtitle: Pour s'éviter
+        subtitle: Pour s'éviter de mauvaises surprises
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
