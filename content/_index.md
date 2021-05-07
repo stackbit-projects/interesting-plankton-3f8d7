@@ -102,7 +102,7 @@ sections:
       - type: feature
         template: feature
         title: Sélectionner les meilleures technos
-        subtitle: Pour construire des solutions pérennes
+        subtitle: Pour construire des solutions qui durent
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
