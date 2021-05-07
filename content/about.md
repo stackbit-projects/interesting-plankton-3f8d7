@@ -30,19 +30,30 @@ seo:
       relativeUrl: true
 layout: page
 ---
+# Un réseau de passionnés aux compétences complémentaires
 
-![A woman using a laptop](/images/about.jpg)
+Chaque Conseiller Numérique est un **travailleur indépendant **qui dispose d'au moins 10 ans d'expérience dans son domaine.
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+Au fait des dernières technologies et évolutions du marché, il peut être :
 
-## Credentials
+*   chef de projet
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+*   développeur
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+*   administrateurs système
+
+*   expert en sécurité
+
+*   consultants en e-marketing
+
+*   référenceur web
+
+*   délégué à la protection des données personnelles
+
+*   graphiste, traducteur, rédacteur, juriste...
 
 
+A chaque demande,** il mobilise l'expertise nécessaire** pour vous apporter les meilleures réponses au coût le plus juste.
 
-## Writing for Action
+![](https://cdn.forestry.io/res2/5GxC-jGogtfXudPbbzLybTyPZIxW327xThfeVQ9wu_E/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUjI1NEwyZDNQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tYzVj/MWIyMDY1NWM5MGYx/OGU1NTBlNDExZWZj/YjU3MmRjNWM3Y2Jh/Ni9qYW4tbWVldXMt/SGk3NE5aRFRsbHMt/dW5zcGxhc2guanBn)
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
