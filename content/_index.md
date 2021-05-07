@@ -25,7 +25,6 @@ sections:
     background_image_repeat: repeat
   - type: grid_section
     template: grid_section
-    title: Vous aider à sélectionner les outils et technos
     grid_items:
       - type: grid_item
         template: grid_item
