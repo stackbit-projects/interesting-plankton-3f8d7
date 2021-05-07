@@ -101,7 +101,7 @@ sections:
       - type: feature
         template: feature
         title: Sélectionner les meilleures technos
-        subtitle: 'Product updates, inventory and pricing.E'
+        subtitle: Pour construire des solutions pérennes
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
