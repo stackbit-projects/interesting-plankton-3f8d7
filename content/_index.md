@@ -75,7 +75,7 @@ sections:
     subtitle: Avec vous
   - type: features_section
     template: features_section
-    title: Des conseils et un accompagnement sur mesure
+    title: Des conseils et un accompagnement personnalisés
     features:
       - type: feature
         template: feature
