@@ -83,7 +83,9 @@ sections:
         subtitle: Pour réussir vos projets plus facilement
         content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
-          publicité digitale, sécurité informatique...
+          publicité digitale, sécurité informatique... Nous analysons votre
+          besoin et vous recommandons les solutions les plus adaptées, celles
+          qui répondent à votre bugdet et votre calendrier.
         actions:
           - type: action
             template: action
