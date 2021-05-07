@@ -72,7 +72,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     actions: []
-    subtitle: Avec vous
+    subtitle: 'Chaque projet est unique, mais vo'
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
@@ -143,7 +143,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    subtitle: 'Nos services :'
+    subtitle: NOS SERVICES
   - type: grid_section
     template: grid_section
     title: Testimonials
