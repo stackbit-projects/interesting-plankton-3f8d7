@@ -80,7 +80,7 @@ sections:
       - type: feature
         template: feature
         title: Choisir les bons outils
-        subtitle: Pour réussir votre projets numériques
+        subtitle: Pour réussir votre projets plus facilement
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
