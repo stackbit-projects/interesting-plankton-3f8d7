@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS ET TECHNOS
-    title: 'Nous '
+    title: Trouver chaussure à son pied
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
