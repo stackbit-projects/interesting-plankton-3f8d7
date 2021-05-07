@@ -121,7 +121,7 @@ sections:
         media_width: sixty
       - type: feature
         template: feature
-        title: Tr
+        title: 'Trouver et évaluer '
         subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
