@@ -75,7 +75,7 @@ sections:
     subtitle: Avec vous
   - type: features_section
     template: features_section
-    title: 'Des conseils '
+    title: Des conseils sur mesure
     features:
       - type: feature
         template: feature
