@@ -30,11 +30,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# Un réseau de passionnés aux compétences complémentaires
+#
 
 ## Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné.
-
-
 
 Chaque Conseiller Numérique est un **travailleur indépendant** qui dispose d'au moins dix ans d'expérience dans son domaine.
 
