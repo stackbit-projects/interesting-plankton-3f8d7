@@ -42,7 +42,7 @@ sections:
         input_type: text
         name: name
         label: Nom
-        default_value: 'Votre '
+        default_value: Votre nom
         is_required: true
       - type: form_field
         template: form_field
