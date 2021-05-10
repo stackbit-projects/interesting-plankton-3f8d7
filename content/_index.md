@@ -206,7 +206,7 @@ sections:
   - type: form_section
     template: form_section
     content: >
-      ## Contactez Votre Conseiller Numérique
+      ## Contactez un Conseiller Numérique
 
 
       If you would like more information about my services and pricing, please
