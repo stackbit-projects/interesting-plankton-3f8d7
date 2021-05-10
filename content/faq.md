@@ -37,7 +37,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
-        content: >+
+        content: >
           Ne partez pas à l'aveuglette ! Un Conseiller Numérique, c'est la
           meilleure garantie d'éviter les mauvaises surprises : les projets qui
           s'éternisent ou échouent, les prestataires qui vous font faux bond ou
@@ -45,10 +45,10 @@ sections:
 
 
           La plupart des entreprises de services numériques font bien leur
-          travail, certaines mieux que d'autres, pas nécessairement les plus
-          grandes ou les plus connues. Les agences de communication digitale qui
-          vous facturent des sommes exorbitantes pour un travail parfois très
-          simple ne sont pas rares.  
+          travail, certaines mieux que d'autres, mais pas nécessairement les
+          plus grandes ou les plus connues. Les agences de communication
+          digitale qui vous facturent des sommes exorbitantes pour un travail
+          parfois très simple ne sont pas rares.
 
 
           Quoi de plus exaspérant qu'un prestataire qui, une fois le devis
@@ -57,11 +57,6 @@ sections:
           supplémentaires, mais pas avant la semaine prochaine ; le dev est sur
           un autre projet ; ajoutez un ticket et je vais regarder ; je vous
           envoie un nouveau devis...
-
-
-
-
-
       - type: grid_item
         template: grid_item
         title: How fast can we get started?
