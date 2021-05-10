@@ -38,17 +38,16 @@ sections:
           projet.
 
 
+          Ne vous fiez pas seulement aux belles présentations PowerPoint, aux
+          maquettes qui "en jettent" ou au baratin jargonneux qui n'est souvent
+          là que pour vous impressionner. Nous, nous allons droit à l'essentiel
+          et c'est aussi pour cela que nos tarifs sont particulièrement
+          abordables.
 
 
-
-
-          Ne vous fiez pas seulement aux belles présentations PowerPoint où aux
-          maquettes qui en jettent.
-
-
-
-
-          Nous tarifs sont particulièrement abordables 
+          Nous ne perdons pas de temps à rédiger un cahier de charges de deux
+          cents pages que personne ne lit ou à vous produire de "jolies slides".
+          Nos recommandations claires, compréhensible et opérationnelles.
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
