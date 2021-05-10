@@ -32,7 +32,11 @@ layout: page
 ---
 # Un réseau de passionnés aux compétences complémentaires
 
-Chaque Conseiller Numérique est un **travailleur indépendant** qui dispose d'au moins 10 ans d'expérience dans son domaine.
+## Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné.
+
+
+
+Chaque Conseiller Numérique est un **travailleur indépendant** qui dispose d'au moins dix ans d'expérience dans son domaine.
 
 Au fait des dernières technologies et évolutions du marché, il peut être :
 
