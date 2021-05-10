@@ -37,8 +37,37 @@ sections:
       - type: grid_item
         template: grid_item
         title: Vous éviter les mauvaises surprises
-        content: |
-          Ne partez pas à l'aveuglette
+        content: >
+          Ne partez pas à l'aveuglette ! 
+
+
+          Un Conseiller Numérique s'est la garantie d'éviter les mauvaises
+          suprises.
+
+
+          faire avoir par des agences peu scrupuleuses
+
+
+          ballader le client qui de toute façon "ni comprend rien" est une
+          pratique courante :
+
+          Avec les réponses habituelles : c'est difficile à faire, on a besoin
+          de 2 journées de développement, mais pas avant la semaine prochaine ;
+          le developpeur est sur un autre projet ; ajoutez un ticket et je vais
+          regarder ; je vous envoie un nouveau devis...
+
+
+
+
+          agences aux tarifs exorbitant
+
+
+
+          les freelances qui vous font faux bon
+
+
+
+          les projets qui s'éternisent
       - type: grid_item
         template: grid_item
         title: How fast can we get started?
