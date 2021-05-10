@@ -225,7 +225,7 @@ sections:
         input_type: text
         name: Nom
         label: Nom
-        default_value: Your name
+        default_value: Entrez votre nom
         is_required: true
       - type: form_field
         template: form_field
