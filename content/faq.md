@@ -29,11 +29,26 @@ sections:
       - type: grid_item
         template: grid_item
         title: Une expertise accessible et abordable
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >
+          Votre Conseiller Numérique est là pour **vous faire économisez du
+          temps et de l'argent !** Ne perdez plus des heures ni même des
+          journées à lire tout et son contraire sur internet au point de ne plus
+          savoir par où commencer. Une veille technologique constante nous
+          permet d'identifier rapidement les solutions en adéquation avec votre
+          projet.
+
+
+
+
+
+
+          Ne vous fiez pas seulement aux belles présentations PowerPoint où aux
+          maquettes qui en jettent.
+
+
+
+
+          Nous tarifs sont particulièrement abordables 
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
