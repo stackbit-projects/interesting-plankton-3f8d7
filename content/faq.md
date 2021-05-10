@@ -14,7 +14,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: What is your process?
+        title: Des conseils personnalisés
         content: >-
           It's important to me to fully understand your business and what you're
           trying to achieve. I will start with an interview and follow up with a
