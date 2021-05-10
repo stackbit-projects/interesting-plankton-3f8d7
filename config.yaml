@@ -16,7 +16,7 @@ params:
     primary_nav_links:
       - type: action
         template: action
-        label: FAQ
+        label: Pou
         url: /faq
         style: link
       - type: action
