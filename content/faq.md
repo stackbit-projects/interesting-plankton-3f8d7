@@ -57,7 +57,7 @@ sections:
 
           Nous ne perdons pas de temps à rédiger un cahier de charges de deux
           cents pages que personne ne lit ou à vous produire de "jolies slides".
-          Nos recommandations claires, compréhensible et opérationnelles.
+          Nos recommandations sont claires, compréhensible et opérationnelles.
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
