@@ -1,5 +1,5 @@
 ---
-title: About
+title: Un réseau de passionnés aux compétences complémentaires
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
