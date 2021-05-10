@@ -37,11 +37,8 @@ sections:
       - type: grid_item
         template: grid_item
         title: Vous éviter les mauvaises surprises
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: |
+          Ne partez pas à l'aveuglette
       - type: grid_item
         template: grid_item
         title: How fast can we get started?
