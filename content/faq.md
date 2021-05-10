@@ -24,11 +24,11 @@ sections:
       - type: grid_item
         template: grid_item
         title: Une expertise indépendante
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          Nous ne sommes liés à aucune entreprise particulière, ne touchons
+          aucune commission et n'avons aucun intérêt à vous orienter vers une
+          solution qui ne vous correspondrait pas pleinement. Seul votre intérêt
+          compte !
       - type: grid_item
         template: grid_item
         title: How do you base your pricing?
