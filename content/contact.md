@@ -3,7 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     template: hero_section
-    title: Contact Me
+    title: Contactez gratuitement un Conseiller Numérique
     subtitle: Fill out the form below and I will get in touch within 1 business day.
     align: center
     padding_top: medium
