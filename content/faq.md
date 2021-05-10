@@ -82,11 +82,19 @@ sections:
           envoie un nouveau devis...
       - type: grid_item
         template: grid_item
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: |
+
+
+          nouveau site
+          e-commerce
+          application mobile
+          plateforme métier
+          publicité digitale
+          réseau informatique
+          sécurité de votre système d'information
+          protection des données personnelles
+          projet de certification ISO
+          recherche de compétence
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
