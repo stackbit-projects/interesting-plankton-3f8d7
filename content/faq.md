@@ -82,7 +82,6 @@ sections:
           envoie un nouveau devis...
       - type: grid_item
         template: grid_item
-        title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
