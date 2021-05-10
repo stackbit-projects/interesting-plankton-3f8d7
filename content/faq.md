@@ -23,7 +23,7 @@ sections:
           revisions as you'd like so that your content is perfect.
       - type: grid_item
         template: grid_item
-        title: Can you manage our social media?
+        title: Une
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
