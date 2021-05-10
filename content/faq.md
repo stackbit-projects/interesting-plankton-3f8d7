@@ -15,12 +15,9 @@ sections:
       - type: grid_item
         template: grid_item
         title: Des conseils personnalisés
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          Petit ou grand, simple ou complexe, votre projet est unique et nous
+          savons qu'il est important pour vous. 
       - type: grid_item
         template: grid_item
         title: Une expertise indépendante
