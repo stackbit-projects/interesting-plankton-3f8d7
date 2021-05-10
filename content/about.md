@@ -30,9 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#
-
-## Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné.
+### Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
 
 Chaque Conseiller Numérique est un **travailleur indépendant** qui dispose d'au moins dix ans d'expérience dans son domaine.
 
