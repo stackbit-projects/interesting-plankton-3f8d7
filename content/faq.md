@@ -28,7 +28,7 @@ sections:
           compte !
       - type: grid_item
         template: grid_item
-        title: accessibles et abordables
+        title: Une accessibles et abordables
         content: >-
           Depending on the scope and timeline of your content needs, we can work
           on a retainer basis, an hour bank, or a per-project basis. Once I
