@@ -17,7 +17,17 @@ sections:
         title: Des conseils personnalisés pour faire réussir votre projet
         content: >
           Petit ou grand, simple ou complexe, votre projet est unique et nous
-          savons qu'il est important pour vous. 
+          savons qu'il est important pour vous.
+
+
+          Aussi, nous privilégions toujours une écoute approfondie de votre
+          besoin qui se traduit en recommandations claires, précises, et surtout
+          opérationnelles !
+
+
+          Votre Conseiller Numérique est un interlocuteur unique qui mobilise
+          notre réseau de compétences pour répondre à vos questions ou suivre
+          votre projet digital.
       - type: grid_item
         template: grid_item
         title: Une expertise indépendante
