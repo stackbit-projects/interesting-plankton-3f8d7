@@ -56,7 +56,7 @@ sections:
         input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: Votre message
       - type: form_field
         template: form_field
         input_type: checkbox
