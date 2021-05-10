@@ -45,7 +45,7 @@ params:
         style: link
       - type: action
         template: action
-        label: FAQ
+        label: Ce que nous faisons ?
         url: /faq
         style: link
       - type: action
