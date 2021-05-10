@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     template: hero_section
     title: Contactez gratuitement un Conseiller Numérique
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      Besoin d'une réponse rapide ou d'être accompagné dans votre projet, nous
+      sommes là pour vous aider !
     align: center
     padding_top: medium
     padding_bottom: medium
