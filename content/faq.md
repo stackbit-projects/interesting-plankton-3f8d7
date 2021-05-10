@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     template: hero_section
-    title: Une expr
+    title: L'expertise du digital accessible au plus grand nombre
     subtitle: My answers
     align: center
     padding_top: medium
