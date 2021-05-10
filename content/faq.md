@@ -36,7 +36,7 @@ sections:
           options to choose from.
       - type: grid_item
         template: grid_item
-        title: What if my business is technical?
+        title: Vous éviter les mauvaises surprises
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
