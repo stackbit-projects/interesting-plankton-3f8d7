@@ -30,7 +30,7 @@ sections:
           votre projet digital.
       - type: grid_item
         template: grid_item
-        title: Notre expertise indépendante
+        title: Notre expertise est indépendante
         content: >
           Nous ne sommes liés à aucune entreprise particulière, ne touchons
           aucune commission et n'avons aucun intérêt à vous orienter vers une
