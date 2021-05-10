@@ -38,7 +38,7 @@ sections:
           compte !
       - type: grid_item
         template: grid_item
-        title: Nous vous offrons une expertise accessible et abordable
+        title: Une expertise accessible et abordable
         content: >
           Votre Conseiller Numérique est là pour **vous faire économisez du
           temps et de l'argent !** Ne perdez plus des heures ni même des
