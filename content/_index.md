@@ -209,8 +209,9 @@ sections:
       ## Contactez un Conseiller Numérique
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Vous avez besoin d'une réponse rapide à l'une de vos questions ou vous
+      cherchez à être accompagné dans votre projet, contactez-nous dès à présent
+      pour en parlez !
     content_align: left
     form_position: right
     form_width: fifty
