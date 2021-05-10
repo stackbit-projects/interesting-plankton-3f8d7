@@ -40,7 +40,7 @@ params:
     primary_nav_links:
       - type: action
         template: action
-        label: About
+        label: Qui sommes nous
         url: /about
         style: link
       - type: action
