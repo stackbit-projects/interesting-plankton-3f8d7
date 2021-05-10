@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     template: hero_section
-    title: Frequently Asked Questions
+    title: Une expr
     subtitle: My answers
     align: center
     padding_top: medium
