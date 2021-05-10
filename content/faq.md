@@ -14,7 +14,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Des conseils personnalisés pour réussir votre projet
+        title: Nos conseils personnalisés pour réussir votre projet
         content: >
           Petit ou grand, simple ou complexe, votre projet est unique et nous
           savons qu'il est important pour vous.
