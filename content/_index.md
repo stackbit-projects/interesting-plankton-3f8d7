@@ -239,9 +239,7 @@ sections:
         input_type: textarea
         name: message
         label: Message
-        default_value: >-
-          Entrez votre message. Nous vous répondons le plus rapidement possible
-          !
+        default_value: Entrez votre message
       - type: form_field
         template: form_field
         input_type: checkbox
