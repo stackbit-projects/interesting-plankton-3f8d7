@@ -25,8 +25,8 @@ sections:
           opérationnelles !
 
 
-          Votre Conseiller Numérique est un interlocuteur unique qui mobilise
-          notre réseau de compétences pour répondre à vos questions ou suivre
+          Votre Conseiller Numérique est un **interlocuteur unique qui mobilise
+          notre réseau** de compétences pour répondre à vos questions ou suivre
           votre projet digital.
       - type: grid_item
         template: grid_item
