@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: L'expertise du digital enfin accessible au plus grand nombre
-    subtitle: Des conseils personnalisés pour faire réussir votre projet
+    subtitle: Des conseils personnalisés pour réussir votre projet
     align: center
     padding_top: medium
     padding_bottom: small
