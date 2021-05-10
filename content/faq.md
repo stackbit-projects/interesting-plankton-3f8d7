@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: L'expertise du digital accessible au plus grand nombre
-    subtitle: Faire réussir votre projet
+    subtitle: Faire les bons choix
     align: center
     padding_top: medium
     padding_bottom: small
