@@ -36,7 +36,7 @@ sections:
           options to choose from.
       - type: grid_item
         template: grid_item
-        title: Vous éviter les mauvaises surprises
+        title: Nous vous évitons les mauvaises surprises
         content: >
           Ne partez pas à l'aveuglette ! 
 
