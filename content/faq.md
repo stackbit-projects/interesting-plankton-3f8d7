@@ -37,37 +37,31 @@ sections:
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
-        content: >
-          Ne partez pas à l'aveuglette ! 
+        content: >+
+          Ne partez pas à l'aveuglette ! Un Conseiller Numérique, c'est la
+          meilleure garantie d'éviter les mauvaises surprises : les projets qui
+          s'éternisent ou échouent, les prestataires qui vous font faux bond ou
+          vous baladent, car le client de toute façon "ni comprend rien".
 
 
-          Un Conseiller Numérique s'est la garantie d'éviter les mauvaises
-          suprises.
+          La plupart des entreprises de services numériques font bien leur
+          travail, certaines mieux que d'autres, pas nécessairement les plus
+          grandes ou les plus connues. Les agences de communication digitale qui
+          vous facturent des sommes exorbitantes pour un travail parfois très
+          simple ne sont pas rares.  
 
 
-          faire avoir par des agences peu scrupuleuses
-
-
-          ballader le client qui de toute façon "ni comprend rien" est une
-          pratique courante :
-
-          Avec les réponses habituelles : c'est difficile à faire, on a besoin
-          de 2 journées de développement, mais pas avant la semaine prochaine ;
-          le developpeur est sur un autre projet ; ajoutez un ticket et je vais
-          regarder ; je vous envoie un nouveau devis...
-
-
-
-
-          agences aux tarifs exorbitant
+          Quoi de plus exaspérant qu'un prestataire qui, une fois le devis
+          signé, fait preuve de mauvaise volonté avec des réponses du type :
+          c'est difficile à faire, on a besoin de deux journées de développement
+          supplémentaires, mais pas avant la semaine prochaine ; le dev est sur
+          un autre projet ; ajoutez un ticket et je vais regarder ; je vous
+          envoie un nouveau devis...
 
 
 
-          les freelances qui vous font faux bon
 
 
-
-          les projets qui s'éternisent
       - type: grid_item
         template: grid_item
         title: How fast can we get started?
