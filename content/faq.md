@@ -60,10 +60,9 @@ sections:
 
 
           La plupart des entreprises de services numériques font bien leur
-          travail, certaines mieux que d'autres, mais pas nécessairement les
-          plus grandes ou les plus connues. Les agences de communication
-          digitale qui vous facturent des sommes exorbitantes pour un travail
-          parfois très simple ne sont pas rares.
+          travail, pas nécessairement les plus grandes ou les plus connues. Mais
+          les agences de communication digitale qui vous facturent des sommes
+          exorbitantes pour un travail parfois très simple ne sont pas rares.
 
 
           Quoi de plus exaspérant qu'un prestataire qui, une fois le devis
