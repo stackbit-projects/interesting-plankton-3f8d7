@@ -87,7 +87,7 @@ sections:
           intro video call, an interview, a questionnaire and some back and
           forth communication for technical purposes. After that, we can go as
           fast as you need.
-        title: Des
+        title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
         title: Who handles the design?
