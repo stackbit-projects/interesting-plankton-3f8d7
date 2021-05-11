@@ -8,34 +8,23 @@ seo:
 layout: page
 title: Nos offres et tarifs
 ---
-## Accessible au plus grand nombre bon choix
+## Une expertise accessible au plus grand nombre
 
-### 4 niveaux de services
+### 4 niveaux de services :
 
-1.  Vous avez besoin d'un **avis technique **sur votre projet, votre site, votre système d'information, votre campagne digitale, choix d'un outil ou d'une techno. 
+1.  Vous avez besoin d'un \*\*avis technique \*\*sur votre projet, votre site, votre système d'information, votre campagne digitale, choix d'un outil ou d'une techno.
 
-2.  Vous avez besoin d'**évaluer la proposition et les compétences** d'un prestataire (devis, cahier des charges) 
+2.  Vous avez besoin d'**évaluer la proposition et les compétences** d'un prestataire (devis, cahier des charges)
 
 3.  Vous avez besoin d'une **assistance pour construire votre projet** : déterminer les technologies et outils qui correspondent à votre besoin ; rédiger un document synthétique, compréhensible et opérationnel pour lancer votre projet ; sélectionner un prestataire à travers un appel d'offres.
 
-4.  Vous avez besoin d'un **suivi personnalisé de l'ensemble de votre projet**
+4.  Vous avez besoin d'un **suivi personnalisé de l'ensemble de votre projet** : en complément des missions précédentes, nous effectuons un contrôle qualité en continu du travail réalisé par votre prestataire, veillons au parfait achèvement du projet et à la conformité du résultat final ; à travers des points réguliers avec vous et des échanges constants avec le prestataire retenu
 
-assistance à mettre d'ouvrage
+Niveaux 1, 2 et 3 : tarif horaire de 49 € HT
 
+Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
 
-à travers des points réguliers, 
-
-un contrôle qualité en continu du travail réalisé par votre prestataire et une validation du résultat finale.
-
-s'assurer de son parfait achèvement.
-
-
-
-Un tarif horaire particulièrement compétitif : 49 €
-
-Suivre votre projet de A à Z
-
-### **Nos packs**
+### Nos packs
 
 Pack privacy : 290 €
 \- protéger votre vie privée et la confidentialité de vos échanges
