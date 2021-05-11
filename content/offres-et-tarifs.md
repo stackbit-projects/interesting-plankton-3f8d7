@@ -1,5 +1,4 @@
 ---
-title: 'Nos '
 seo:
   title: ''
   description: ''
