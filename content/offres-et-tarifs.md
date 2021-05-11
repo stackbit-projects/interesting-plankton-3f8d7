@@ -12,7 +12,7 @@ title: Nos offres et tarifs
 
 ### 4 niveaux de services :
 
-1.  Vous avez besoin d'un \*\*avis technique \*\*sur votre projet, votre site, votre système d'information, votre campagne digitale, choix d'un outil ou d'une techno.
+1.  Vous avez besoin d'un **avis technique** sur votre projet, votre site, votre système d'information, votre campagne digitale, choix d'un outil ou d'une techno.
 
 2.  Vous avez besoin d'**évaluer la proposition et les compétences** d'un prestataire (devis, cahier des charges)
 
@@ -24,16 +24,17 @@ title: Nos offres et tarifs
 
 ###### Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
 
+> Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
+
 ### Nos packs
 
-*   Pack privacy : 290 € (tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
+*   Pack "privacy" à 290 € : tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
 
-*   Pack audit qualité de votre site : à partir de 490 €
+*   Pack audit qualité de votre site à partir de 490 € : nous mesurons les performances, l'accessibilité et l'optimisation de votre site 
+
+*   Pack audit de votre système d'information : à partir de 1490 €
 
 
 
-nous mesurons les performances, l'accessibilité et l'optimisation de votre site pour le référencement.
 
-Améliorer votre site pour visiteurs
 
-Pack audit de votre système d'information : à partir de 1490 €
