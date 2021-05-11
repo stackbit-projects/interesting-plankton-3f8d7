@@ -20,7 +20,7 @@ params:
         url: /faq
         style: link
       - label: lorem-ipsum
-        url: 'Offre '
+        url: Offres et tarifs
         style: link
         has_icon: false
         icon: arrow-left
