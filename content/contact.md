@@ -8,7 +8,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    subtitle: Une question
+    subtitle: Simple question question
   - type: form_section
     template: form_section
     content: >-
