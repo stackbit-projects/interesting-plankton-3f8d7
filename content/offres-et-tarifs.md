@@ -10,9 +10,11 @@ title: Nos offres et tarifs
 ---
 ## Une expertise accessible au plus grand nombre
 
+> Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
+
 ### 4 niveaux de services :
 
-1.  Vous avez besoin d'un **avis technique** sur votre projet, votre site, votre système d'information, votre campagne digitale, choix d'un outil ou d'une techno.
+1.  Vous avez besoin d'un **avis technique** sur votre projet, votre site, votre système d'information, votre campagne digitale ; le choix d'un outil, d'une techno, d'un hébergeur... 
 
 2.  Vous avez besoin d'**évaluer la proposition et les compétences** d'un prestataire (devis, cahier des charges)
 
@@ -24,17 +26,10 @@ title: Nos offres et tarifs
 
 ###### Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
 
-> Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
-
 ### Nos packs
 
 *   Pack "privacy" à 290 € : tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
 
-*   Pack audit qualité de votre site à partir de 490 € : nous mesurons les performances, l'accessibilité et l'optimisation de votre site 
+*   Pack audit qualité de votre site ou application web à partir de 490 € : nous mesurons tous les paramètres clés de votre site (performances, sécurité, compatibilité, accessibilité, optimisation) et établissons une liste précise de recommandations pour améliorer chacun de ces paramètres. 
 
-*   Pack audit de votre système d'information : à partir de 1490 €
-
-
-
-
-
+*   Pack audit de votre système d'information à partir de 1490 € : nous analysons tous les outils que vous utilisez au regard de vos objectifs et vous faisons part sans "langue de bois" de ce qui marche bien ou pas, de ce que vous pourriez faire de mieux, comment et à quel prix. Pas de rapport inexploitable de deux cents pages, mais du concret, compréhensible et exploitable de suite.
