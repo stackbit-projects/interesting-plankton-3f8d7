@@ -14,14 +14,14 @@ sections:
   - type: form_section
     template: form_section
     content: >
-      ## Gratuit et sans engagement !
+      ## Notre 
 
 
       After a short onboarding call I will be able to provide you with ballpark
       pricing, followed by a detailed proposal once we discuss the details.
 
 
-      ### Gratuit et sans engagement 
+      ### Gratuit et sans engagement
 
 
       Your proposal will include several choices in terms of pricing structure
