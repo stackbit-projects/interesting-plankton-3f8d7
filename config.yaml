@@ -65,7 +65,7 @@ params:
     secondary_nav_links:
       - type: action
         template: action
-        label: Style Guide
+        label: 'Offres et '
         url: /style-guide
         style: link
       - type: action
