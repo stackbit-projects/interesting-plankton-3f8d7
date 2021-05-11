@@ -96,7 +96,7 @@ sections:
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
-        title: Notre partis pris
+        title: 'Notre parti pris technologique : être pragmatique'
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
