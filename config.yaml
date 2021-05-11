@@ -10,7 +10,7 @@ params:
     type: header
     template: header
     title: Personal Theme
-    logo: /images/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png
+    logo: /images/logo.png
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
