@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS ET TECHNOS
-    title: Faîtes des choix avisés pour ne pas vous tromper !
+    title: Le laissez pas la bonne pioche au hasard
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
