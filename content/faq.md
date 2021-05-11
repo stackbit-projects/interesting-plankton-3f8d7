@@ -97,11 +97,45 @@ sections:
       - type: grid_item
         template: grid_item
         title: 'Notre parti pris technologique : être pragmatique'
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: >+
+          Notre but est de trouver des solutions simples et efficaces qui
+          répondent à vos besoins quelles soient sur votre bureau, votre réseau,
+          votre mobile, chez un hébergeur ou dans le cloud.
+
+
+          Si des solutions libres, bien documentées et adossées à des
+          communautés actives, tant mieux ! Si elles sont à la fois rapides,
+          souples et robustes, c'est encore mieux ! 
+
+
+          Mais le meilleur parti pris est toujours celui du pragmatisme,
+          c’est-à-dire la capacité de s'adapter au contexte et à la couverture
+          fonctionnelle qui est propre à chaque projet.
+
+
+          Selon les moyens disponibles, les objectifs fixés ou la criticité des
+          données, les choix peuvent être radicalement différents.
+
+
+          Parfois, une solution internalisée s'impose pour préserver autant que
+          possible votre indépendance ; d'autres fois un outil dans le cloud
+          peut parfaitement remplir la mission.
+
+
+
+
+          *pieds et poings liés*
+
+
+
+
+          Qui ne souffre pas des usines à gaz difficiles à maintenir et remplies
+          de fonctionnalités inutiles
+
+
+          des portails qui se chargent intérminablement et où l'on se perd dans
+          une interface inutilement chargée.
+
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
