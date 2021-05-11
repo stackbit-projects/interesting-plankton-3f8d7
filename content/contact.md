@@ -10,7 +10,7 @@ sections:
     background_color: none
     subtitle: >-
       Simple question ou besoin d'être accompagné, nous sommes là pour vous
-      aider.
+      aider !
   - type: form_section
     template: form_section
     content: >-
