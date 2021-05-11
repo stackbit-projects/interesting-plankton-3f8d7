@@ -6,6 +6,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+title: Nos offres et tarifs
 ---
 ## Lorem ipsum
 
