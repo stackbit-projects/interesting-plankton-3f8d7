@@ -8,8 +8,6 @@ seo:
 layout: page
 title: Nos offres et tarifs
 ---
-## Une expertise accessible au plus grand nombre
-
 D'une simple question, sans aucun engagement de votre part, à un suivi complet de votre projet, notre offre s'adapte à vos besoins. À tout moment vous restez libre de continuer ou pas à faire appel à Votre Conseiller Numérique et si vous n'étiez pas satisfait, et bien nous vous remboursons !
 
 > Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
