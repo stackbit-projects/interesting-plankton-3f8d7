@@ -19,7 +19,7 @@ params:
         label: Ce que nous faisons !
         url: /faq
         style: link
-      - label: lorem-ipsum
+      - label: Offres et tarifs
         style: link
         has_icon: false
         icon: arrow-left
