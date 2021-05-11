@@ -9,7 +9,7 @@ params:
   header:
     type: header
     template: header
-    title: Personal Theme
+    title: VotreConseillerNumerique.com
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
