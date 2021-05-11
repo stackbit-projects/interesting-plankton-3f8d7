@@ -92,7 +92,7 @@ sections:
 
 
           À tout moment, il peut mobiliser notre réseau de compétences pour
-          s'adapter à votre projet.
+          s'adapter à votre besoin.
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
