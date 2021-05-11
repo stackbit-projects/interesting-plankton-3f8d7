@@ -82,26 +82,17 @@ sections:
           envoie un nouveau devis...
       - type: grid_item
         template: grid_item
-        content: |
-          1.  site internet
+        content: >
+          Votre Conseiller Numérique vous  accompagne sur tout type de projets :
+          site internet, application mobile, plateforme métier, publicité
+          digitale, informatique réseau, sécurité de votre système
+          d'information, protection des données personnelles, projet de
+          certification ISO, recherche de prestataires, analyse des offres,
+          audits.
 
-          2.  e-commerce
 
-          3.  application mobile
-
-          4.  plateforme métier
-
-          5.  publicité digitale
-
-          6.  réseau informatique
-
-          7.  sécurité de votre système d'information
-
-          8.  protection des données personnelles
-
-          9.  projet de certification ISO
-
-          10. recherche de compétence
+          À tout moment, il peut mobiliser notre réseau de compétences pour
+          s'adapter à votre projet.
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
