@@ -83,18 +83,25 @@ sections:
       - type: grid_item
         template: grid_item
         content: |
+          1.  site internet
 
+          2.  e-commerce
 
-          nouveau site
-          e-commerce
-          application mobile
-          plateforme métier
-          publicité digitale
-          réseau informatique
-          sécurité de votre système d'information
-          protection des données personnelles
-          projet de certification ISO
-          recherche de compétence
+          3.  application mobile
+
+          4.  plateforme métier
+
+          5.  publicité digitale
+
+          6.  réseau informatique
+
+          7.  sécurité de votre système d'information
+
+          8.  protection des données personnelles
+
+          9.  projet de certification ISO
+
+          10. recherche de compétence
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
