@@ -21,14 +21,14 @@ sections:
       pricing, followed by a detailed proposal once we discuss the details.
 
 
-      ### Proposal
+      ### Gratuit et sans engagement 
 
 
       Your proposal will include several choices in terms of pricing structure
       and deliverable timeline.
 
 
-      ### Terms
+      ### Réponse rapide
 
 
       If at any point you'd like to cancel our project, you are required to
