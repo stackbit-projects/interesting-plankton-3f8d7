@@ -10,11 +10,11 @@ title: Nos offres et tarifs
 ---
 ## Une expertise accessible au plus grand nombre
 
+D'une simple question, sans aucun engagement de votre part, à un suivi complet de votre projet, notre offre s'adapte à vos besoins. À tout moment vous restez libre de continuer ou pas à faire appel à Votre Conseiller Numérique et si vous n'étiez pas satisfait, nous vous remboursons !
+
 > Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
 
-D'une simple question à un accompagnement complet, notre offre s'adapte à vos besoins.
-
-4 niveaux de services :
+##### 4 niveaux de services :
 
 1.  Vous avez besoin d'un **avis technique** sur votre projet, votre site, votre système d'information, votre campagne digitale ; le choix d'un outil, d'une techno, d'un hébergeur...
 
@@ -32,6 +32,6 @@ D'une simple question à un accompagnement complet, notre offre s'adapte à vos 
 
 *   Pack "privacy" à 290 € : tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
 
-*   Pack **audit qualité de votre site **ou application web à partir de 490 € : nous mesurons tous les paramètres clés de votre site (performances, sécurité, compatibilité, accessibilité, optimisation) et établissons une liste précise de recommandations pour améliorer chacun de ces paramètres.
+*   Pack \*\*audit qualité de votre site \*\*ou application web à partir de 490 € : nous mesurons tous les paramètres clés de votre site (performances, sécurité, compatibilité, accessibilité, optimisation) et établissons une liste précise de recommandations pour améliorer chacun de ces paramètres.
 
 *   Pack **audit de votre système d'information** à partir de 1490 € : nous analysons tous les outils que vous utilisez au regard de vos objectifs et vous faisons part sans "langue de bois" de ce qui marche bien ou pas, de ce que vous pourriez faire de mieux, comment et à quel prix. Pas de rapport inexploitable de deux cents pages, mais du concret, compréhensible et exploitable de suite.
