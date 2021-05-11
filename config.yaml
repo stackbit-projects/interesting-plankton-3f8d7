@@ -27,6 +27,7 @@ params:
         new_window: false
         no_follow: false
         type: action
+        url: /offres-et-tarifs
       - type: action
         template: action
         label: Qui sommes-nous ?
