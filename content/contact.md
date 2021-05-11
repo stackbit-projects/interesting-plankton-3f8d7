@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Contactez gratuitement Votre Conseiller Numérique
-    subtitle: >-
-      Besoin d'une réponse rapide ou d'être accompagné dans votre projet, nous
-      sommes là pour vous aider !
+    subtitle: Une question
     align: center
     padding_top: medium
     padding_bottom: medium
