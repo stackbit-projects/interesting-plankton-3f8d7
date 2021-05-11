@@ -20,9 +20,9 @@ title: Nos offres et tarifs
 
 4.  Vous avez besoin d'un **suivi personnalisé de l'ensemble de votre projet** : en complément des missions précédentes, nous effectuons un contrôle qualité en continu du travail réalisé par votre prestataire, veillons au parfait achèvement du projet et à la conformité du résultat final ; à travers des points réguliers avec vous et des échanges constants avec le prestataire retenu
 
-Niveaux 1, 2 et 3 : tarif horaire de 49 € HT
+###### Niveaux 1, 2 et 3 : tarif horaire de 49 € HT
 
-Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
+###### Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
 
 ### Nos packs
 
