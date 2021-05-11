@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     template: hero_section
     title: Contactez gratuitement Votre Conseiller Numérique
-    subtitle: Une question
     align: center
     padding_top: medium
     padding_bottom: medium
