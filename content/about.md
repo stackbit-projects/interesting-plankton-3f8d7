@@ -32,7 +32,7 @@ layout: page
 ---
 > Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
 
-Chaque Conseiller Numérique est un **travailleur indépendant** dont le profil peut varier, parfois issu d'une école d'ingénieur ou totalement autodidacte, mais qui dispose d'**au moins dix ans d'expérience** dans son domaine.
+Chaque Conseiller Numérique est un **travailleur indépendant** au profil différent, parfois issu d'une école d'ingénieur ou totalement autodidacte, mais qui dispose d'**au moins dix ans d'expérience** dans son domaine.
 
 Tous sont des geeks passionnés par le numérique, ayant à cœur de partager leurs connaissances avec les membres du réseau Votre Conseiller Numérique et de les mettre au profit de chaque demandeur.
 
