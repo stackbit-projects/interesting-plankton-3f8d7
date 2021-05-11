@@ -8,7 +8,9 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    subtitle: Répondre à toutes vos questions
+    subtitle: >-
+      Simple question ou besoin d'être accompagné, nous sommes là pour vous
+      aider.
   - type: form_section
     template: form_section
     content: >-
