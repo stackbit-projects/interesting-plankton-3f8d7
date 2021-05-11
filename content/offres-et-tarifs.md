@@ -26,12 +26,13 @@ title: Nos offres et tarifs
 
 ### Nos packs
 
-Pack privacy : 290 €
-\- protéger votre vie privée et la confidentialité de vos échanges
+*   Pack privacy : 290 € (tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
 
-Pack audit qualité de votre site : à partir de 390 €
+*   Pack audit qualité de votre site : à partir de 490 €
 
-*   nous mesurons les performances, l'accessibilité et l'optimisation de votre site pour le référencement.
+
+
+nous mesurons les performances, l'accessibilité et l'optimisation de votre site pour le référencement.
 
 Améliorer votre site pour visiteurs
 
