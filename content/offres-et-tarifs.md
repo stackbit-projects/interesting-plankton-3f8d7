@@ -12,7 +12,9 @@ title: Nos offres et tarifs
 
 > Le digital c'est complexe, mais pas compliqué ! Surtout quand on est bien accompagné
 
-### 4 niveaux de services :
+D'une simple question à un accompagnement complet, notre offre s'adapte à vos besoins.
+
+4 niveaux de services :
 
 1.  Vous avez besoin d'un **avis technique** sur votre projet, votre site, votre système d'information, votre campagne digitale ; le choix d'un outil, d'une techno, d'un hébergeur...
 
