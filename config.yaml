@@ -67,7 +67,7 @@ params:
       - type: action
         template: action
         label: Offres et tarifs
-        url: /style-guide
+        url: /offres-et-tarifs
         style: link
       - type: action
         template: action
