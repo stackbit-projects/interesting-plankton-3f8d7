@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Mettons votre projet digital sur la bonne voie...
+    title: Votre Conseiller Numérique met votre projet sur la bonne voie...
     subtitle: "Besoin d'un conseil ou d'être accompagné. Un Conseiller Numérique est là pour vous aider ! \U0001F91D"
     actions:
       - type: action
