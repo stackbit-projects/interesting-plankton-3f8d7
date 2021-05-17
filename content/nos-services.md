@@ -94,7 +94,7 @@ sections:
         title: Quel que soit votre projet !
       - type: grid_item
         template: grid_item
-        title: 'Notre parti pris technologique : être pragmatique'
+        title: 'Un parti pris technologique : le pragmatisme'
         content: >
           Notre but est de trouver des **solutions simples et efficaces** qui
           répondent à vos besoins quelles soient sur votre bureau, votre réseau,
