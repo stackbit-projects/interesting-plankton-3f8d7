@@ -39,7 +39,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Audit Web
-        subtitle: Optional subtitle
+        subtitle: Audit de votre site ou application web
         title_align: left
         content: |
           ***
