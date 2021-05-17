@@ -91,15 +91,6 @@ params:
         new_window: true
       - type: action
         template: action
-        label: Facebook
-        url: 'https://www.facebook.com/'
-        style: link
-        has_icon: true
-        icon: facebook
-        icon_position: center
-        new_window: true
-      - type: action
-        template: action
         label: Instagram
         url: 'https://www.instagram.com/'
         style: link
