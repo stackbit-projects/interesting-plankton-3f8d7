@@ -10,7 +10,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: small
-    background_color: none
+    background_color: primary
   - type: grid_section
     template: grid_section
     grid_items:
