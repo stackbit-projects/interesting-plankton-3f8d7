@@ -24,8 +24,7 @@ sections:
       ### Sans engagement
 
 
-      Your proposal will include several choices in terms of pricing structure
-      and deliverable timeline.
+      Nos premiers échanges ne vous engagent strictement à rien
 
 
       ### Réponse rapide
