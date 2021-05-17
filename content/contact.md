@@ -14,7 +14,7 @@ sections:
   - type: form_section
     template: form_section
     content: >
-      ## Rien que pour vous
+      ## Gratuit et sans engagement
 
 
       After a short onboarding call I will be able to provide you with ballpark
