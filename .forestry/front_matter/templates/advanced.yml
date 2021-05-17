@@ -36,6 +36,5 @@ fields:
 pages:
   - content/_index.md
   - content/contact.md
-  - content/pricing.md
   - content/thank-you.md
   - content//nos-services.md
