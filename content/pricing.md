@@ -88,7 +88,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Assistance à
+      - title: Accompagnement complet de votre projet
         subtitle: lorem-ipsum
         title_align: left
         content: >-
