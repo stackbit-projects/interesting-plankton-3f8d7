@@ -17,14 +17,13 @@ sections:
       ## Nos garanties
 
 
-      After a short onboarding call I will be able to provide you with ballpark
-      pricing, followed by a detailed proposal once we discuss the details.
+      Votre Conseiller Numérique prendra
 
 
       ### Sans engagement
 
 
-      Nos premiers échanges ne vous engagent strictement à rien
+      Nos premiers échanges ne vous engagent strictement.
 
 
       ### Réponse rapide
