@@ -38,7 +38,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         template: grid_item
-        title: Audit de votre site
+        title: Audit Web
         subtitle: Optional subtitle
         title_align: left
         content: |
