@@ -70,9 +70,9 @@ sections:
         content: |
           ***
 
-          ### à partir de 1490 €
+          ### 1490 €
 
-          per month, billed yearly
+          à partir de
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
