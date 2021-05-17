@@ -16,6 +16,8 @@ sections:
     content: |+
       ## Nos garanties
 
+
+
       ### Sans engagement
 
       Nos premiers échanges ne vous engagent strictement.
