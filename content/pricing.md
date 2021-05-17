@@ -21,7 +21,7 @@ sections:
 
           ### 49 € HT
 
-          per month, billed yearly
+          de l'heure
 
           *   Et semper leo mattis orci conubia congue
           *   Quisque eleifend imperdiet tortor
