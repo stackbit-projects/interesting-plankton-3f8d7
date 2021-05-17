@@ -14,7 +14,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Conseil
-        subtitle: Optional subtitle
+        subtitle: Etude de votre projet
         title_align: left
         content: |
           ***
