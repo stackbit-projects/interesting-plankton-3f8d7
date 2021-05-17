@@ -14,7 +14,7 @@ params:
     primary_nav_links:
       - type: action
         template: action
-        label: Ce que nous faisons !
+        label: Nos services
         url: /faq
         style: link
       - label: Offres et tarifs
