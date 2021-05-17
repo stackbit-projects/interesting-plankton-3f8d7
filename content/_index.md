@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS ET TECHNOS
-    title: Le laissez pas la bonne pioche au hasard
+    title: Une "bonne pioche" ne doit rien au hasard
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
