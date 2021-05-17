@@ -13,7 +13,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Etudes et conseils
+        title: Conseil
         subtitle: Optional subtitle
         title_align: left
         content: |
