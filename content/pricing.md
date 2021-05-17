@@ -41,18 +41,18 @@ sections:
         title: Audit de
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### 490 € HT
 
-          per month, billed yearly
+          à partir de
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Fringilla diam magnis libero lacinia
+          *   Litora primis facilisis ullamcorper per
         content_align: left
         actions:
           - type: action
