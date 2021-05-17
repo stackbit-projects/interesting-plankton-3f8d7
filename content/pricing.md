@@ -88,7 +88,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: lorem-ipsum
+      - title: Assistance à
         subtitle: lorem-ipsum
         title_align: left
         content: >-
