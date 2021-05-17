@@ -13,17 +13,14 @@ sections:
       pour vous aider !
   - type: form_section
     template: form_section
-    content: |+
-      ## Nos garanties
+    content: |
+      ## Nos garanties :
 
-
-
-      ### Sans engagement
+      ### Réponse rapide et sans engagement
 
       Nos premiers échanges ne vous engagent strictement.
 
       ### Réponse rapide
-
     content_align: left
     form_position: left
     form_width: fifty
