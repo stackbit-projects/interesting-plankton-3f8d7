@@ -65,7 +65,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Audit SI
-        subtitle: Optional su
+        subtitle: Audit de votre système d'information
         title_align: left
         content: |
           ***
