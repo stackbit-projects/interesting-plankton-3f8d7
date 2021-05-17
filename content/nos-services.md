@@ -112,14 +112,8 @@ sections:
           Selon les moyens disponibles, les objectifs fixés ou la criticité des
           données, les choix peuvent être radicalement différents. Parfois, une
           solution internalisée s'impose pour préserver autant que possible
-          votre indépendance ; d'autres fois un outil dans le cloud peut
-          parfaitement remplir la mission.
-
-
-          Ce que n'aimons pas : les usines à gaz difficiles à maintenir et
-          remplies de fonctionnalités inutiles ; les sites qui se chargent
-          interminablement et où l'on se perd dans une interface inutilement
-          chargée.
+          votre indépendance ; d'autres fois un ou plusieurs outils cloud seront
+          plus efficaces et simples à mettre en place.
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
