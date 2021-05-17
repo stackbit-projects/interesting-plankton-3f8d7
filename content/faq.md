@@ -37,7 +37,7 @@ sections:
           Nous ne sommes liés à aucune entreprise particulière, ne touchons
           aucune commission et n'avons aucun intérêt à vous orienter vers une
           solution qui ne vous correspondrait pas pleinement. Seul votre intérêt
-          compte ! \&#129309;
+          compte !
       - type: grid_item
         template: grid_item
         title: Notre expertise est accessible et abordable
