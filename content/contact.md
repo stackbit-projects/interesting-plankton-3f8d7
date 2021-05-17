@@ -21,7 +21,7 @@ sections:
       pricing, followed by a detailed proposal once we discuss the details.
 
 
-      ### Gratuit et sans engagement
+      ### Sans engagement
 
 
       Your proposal will include several choices in terms of pricing structure
