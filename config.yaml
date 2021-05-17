@@ -15,7 +15,7 @@ params:
       - type: action
         template: action
         label: Nos services
-        url: /nos
+        url: /nos-services
         style: link
       - label: Offres et tarifs
         style: link
