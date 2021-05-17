@@ -14,7 +14,7 @@ sections:
   - type: form_section
     template: form_section
     content: >
-      ## Un conseiller à votre écoute
+      ## A votre écoute
 
 
       After a short onboarding call I will be able to provide you with ballpark
