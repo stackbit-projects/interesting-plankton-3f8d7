@@ -13,14 +13,25 @@ sections:
       pour vous aider !
   - type: form_section
     template: form_section
-    content: |
+    content: >
       ## Nos garanties :
 
-      ### Réponse rapide et sans engagement
 
-      Nos premiers échanges ne vous engagent strictement.
+      Nous avons
+
+
+      ### Sans engagement
+
+
+      Nos premiers échanges ne vous engagent strictement. Nous vous ferons une
+      proposition forfaitaire
+
 
       ### Réponse rapide
+
+
+      Nous vous recontactons au plus vite après avoir pris le temps d'étudier
+      votre demande avec toute l'attention nécessaire.
     content_align: left
     form_position: left
     form_width: fifty
