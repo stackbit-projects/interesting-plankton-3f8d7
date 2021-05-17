@@ -67,18 +67,18 @@ sections:
         title: Audit
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### à partir de 1490 €
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - type: action
