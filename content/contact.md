@@ -23,8 +23,7 @@ sections:
       ### Sans engagement
 
 
-      Nos premiers échanges ne vous engagent strictement. Nous vous ferons une
-      proposition forfaitaire
+      Nos premiers échanges ne vous engagent strictement.
 
 
       ### Réponse rapide
