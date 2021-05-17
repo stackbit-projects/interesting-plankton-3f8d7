@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Votre Conseiller Numérique vous aide à faire les bons choix
-    subtitle: "Simple conseil ou accompagnement complet, la réussite de votre projet n'est qu'à un clic ! \U0001F619️"
+    subtitle: "Simple conseil ou accompagnement complet, la réussite de votre projet n'est qu'à un clic ! \U0001F64C️"
     actions:
       - type: action
         template: action
