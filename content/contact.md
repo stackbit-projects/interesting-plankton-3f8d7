@@ -13,25 +13,15 @@ sections:
       pour vous aider !
   - type: form_section
     template: form_section
-    content: >
+    content: |+
       ## Nos garanties
-
-
-      Votre Conseiller Numérique prendra
-
 
       ### Sans engagement
 
-
       Nos premiers échanges ne vous engagent strictement.
-
 
       ### Réponse rapide
 
-
-      If at any point you'd like to cancel our project, you are required to
-      provide a 30-day written notice, after which I will transfer all of your
-      assets to you so you can use them anytime.
     content_align: left
     form_position: left
     form_width: fifty
