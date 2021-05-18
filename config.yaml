@@ -38,7 +38,7 @@ params:
         style: link
     has_secondary_nav: false
     has_anncmnt: false
-    logo: /images/graceful-iron.svg
+    logo: /images/logoaaa.svg
   footer:
     type: footer
     template: footer
