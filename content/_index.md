@@ -165,7 +165,7 @@ sections:
         template: grid_item
         content: >
           La clé d'un projet réussi  ? Faire ce qui est nécessaire, rien de
-          plus, rien de moins.
+          plus, rien de moins. Et surtout ne pas commencer par les détails.
 
 
           **Oscar,** Srum Master
