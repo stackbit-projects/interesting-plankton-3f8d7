@@ -71,7 +71,7 @@ sections:
     grid_gap_horiz: medium
     align: center
     actions: []
-    subtitle: CHOIX TECHNOLOGIQUES
+    subtitle: OUTILS & TECHNOS
     title: Une "bonne pioche" ne doit rien au hasard
   - type: features_section
     template: features_section
