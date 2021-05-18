@@ -36,7 +36,7 @@ sections:
       ### Réponse rapide
 
 
-      Un conseiller expérimenté et pas un stagiaire vous recontactera au plus
+      Un conseiller expérimenté (et pas un stagiaire) vous recontactera au plus
       vite afin d'étudier attentivement votre besoin.
     content_align: left
     form_position: left
