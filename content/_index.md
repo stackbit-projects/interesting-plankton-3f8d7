@@ -205,13 +205,18 @@ sections:
     background_image_repeat: repeat
   - type: form_section
     template: form_section
-    content: >
+    content: |
       ## Contactez Votre Conseiller Numérique
 
+      Nous sommes là pour :
 
-      Vous avez besoin d'une réponse rapide à l'une de vos questions ou vous
-      cherchez à être accompagné dans votre projet, contactez-nous dès à présent
-      pour en parlez !
+      Répondre à vos questions, même les plus pointues.
+
+      Vous assister pour concevoir votre projet digital.
+
+      Vous accompagner pour en garantir la réussite.
+
+      Contactez-nous dès à présent pour en parler !
     content_align: left
     form_position: right
     form_width: fifty
