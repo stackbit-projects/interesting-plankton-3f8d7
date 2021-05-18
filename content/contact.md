@@ -14,10 +14,7 @@ sections:
   - type: form_section
     template: form_section
     content: >
-      ## Nos garanties :
-
-
-      Nous avons
+      ## Nos garanties !
 
 
       ### Sans engagement
