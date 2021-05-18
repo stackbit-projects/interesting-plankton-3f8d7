@@ -191,7 +191,7 @@ sections:
 
 
           **Slimane,** *Consultant en e-marketing*
-        image: /images/conseiller-numerique-consultant-emarketing.png
+        image: /images/spectacular-cabbage.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
