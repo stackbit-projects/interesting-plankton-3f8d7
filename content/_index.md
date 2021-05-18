@@ -208,15 +208,15 @@ sections:
     content: |
       ## Contactez Votre Conseiller Numérique
 
-      Nous sommes là pour :
+      **Nous sommes là pour :**
 
-      Répondre à vos questions, même les plus pointues.
+      #### Répondre à vos questions, même les plus pointues.
 
-      Vous assister pour concevoir votre projet digital.
+      #### Vous assister pour concevoir votre projet digital.
 
-      Vous accompagner pour en garantir la réussite.
+      #### Vous accompagner pour en garantir la réussite.
 
-      Contactez-nous dès à présent pour en parler !
+      **Contactez-nous dès à présent pour en parler !**
     content_align: left
     form_position: right
     form_width: fifty
