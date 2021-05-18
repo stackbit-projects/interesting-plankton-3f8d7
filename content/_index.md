@@ -169,7 +169,7 @@ sections:
 
 
           **Oscar,** Srum Master
-        image: images/miles-tone.png
+        image: /images/conseiller-numerique-scrum-master.png
         image_position: left
         image_width: twenty-five
       - type: grid_item
