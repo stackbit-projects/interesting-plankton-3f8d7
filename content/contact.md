@@ -9,8 +9,8 @@ sections:
     padding_bottom: medium
     background_color: none
     subtitle: >-
-      Simple question, besoin d'un avis ou d'être accompagné, nous sommes là
-      pour vous aider !
+      Question simple ou pointue, besoin d'un avis ou d'être accompagné, nous
+      sommes là pour vous aider !
   - type: form_section
     template: form_section
     content: >
