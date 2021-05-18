@@ -180,7 +180,7 @@ sections:
 
 
           **Audrey,** *Adminsys*
-        image: /images/conseiller-numerique-adminsys.png
+        image: /images/important-sunflower.png
         image_position: left
         image_width: twenty-five
       - type: grid_item
