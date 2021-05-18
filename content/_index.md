@@ -158,7 +158,7 @@ sections:
 
 
           **Jean** *a.k.a.* "Ptit Jean"  *Dev Fullstack*
-        image: images/hanson-deck.png
+        image: /images/avataaars.png
         image_position: left
         image_width: twenty-five
       - type: grid_item
