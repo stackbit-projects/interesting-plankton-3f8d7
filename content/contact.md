@@ -23,14 +23,24 @@ sections:
       ### Sans engagement
 
 
-      Nos premiers échanges ne vous engagent strictement.
+      Nos premiers échanges ne vous engagent strictement à rien. Vous êtes
+      également libre, par la suite, d'arrêter la mission de votre conseiller
+      quand vous le souhaitez.
+
+
+      ### Satisfait ou remboursé
+
+
+      Si malgré nos efforts et notre sérieux, vous n'étiez pas totalement
+      satisfait de Votre Conseiller Numérique, et bien nous vous remboursons
+      intégralement.
 
 
       ### Réponse rapide
 
 
-      Nous vous recontactons au plus vite après avoir pris le temps d'étudier
-      votre demande avec toute l'attention nécessaire.
+      Un conseiller expérimenté et pas un stagiaire vous recontactera au plus
+      vite afin d'étudier attentivement votre besoin.
     content_align: left
     form_position: left
     form_width: fifty
