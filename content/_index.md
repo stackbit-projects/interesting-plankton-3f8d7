@@ -211,7 +211,7 @@ sections:
       Nous sommes là pour...
 
       *   **Répondre à vos questions,** même les plus pointues !
-      *   **Vous assister **dans la conception votre projet digital.
+      *   **Vous assister** dans la conception votre projet digital.
       *   **Vous accompagner** pour en garantir la réussite.
 
       Contactez-nous dès à présent pour en parler !
