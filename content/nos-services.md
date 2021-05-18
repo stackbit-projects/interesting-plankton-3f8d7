@@ -97,23 +97,26 @@ sections:
         title: 'Un parti pris technologique : le pragmatisme'
         content: >
           Notre but est de trouver des **solutions simples et efficaces** qui
-          répondent à vos besoins quelles soient sur votre bureau, votre réseau,
-          votre mobile, chez un hébergeur ou dans le cloud.
+          répondent à votre besoin, quelles soient sur votre poste de travail,
+          votre réseau, votre mobile, chez un hébergeur ou dans le cloud.
 
 
           Si des solutions libres, bien documentées et adossées à des
           communautés actives, tant mieux ! Si elles sont à la fois rapides,
-          souples et robustes, c'est encore mieux ! Mais le meilleur parti pris
-          est toujours celui du pragmatisme, c’est-à-dire la capacité de
-          **s'adapter au contexte et à la couverture fonctionnelle qui est
-          propre à chaque projet.**
+          souples et solides, c'est encore mieux ! Mais le meilleur parti pris
+          est toujours celui du pragmatisme, c’est-à-dire la capacité à
+          s'adapter au contexte et à **faire le maximum avec les moyens dont on
+          dispose**.
 
 
-          Selon les moyens disponibles, les objectifs fixés ou la criticité des
-          données, les choix peuvent être radicalement différents. Parfois, une
-          solution internalisée s'impose pour préserver autant que possible
-          votre indépendance ; d'autres fois un ou plusieurs outils cloud seront
-          plus efficaces et simples à mettre en place.
+          Pour un même projet, les choix peuvent être radicalement différents.
+          Parfois, une solution internalisée s'impose pour préserver votre
+          indépendance ; d'autres fois un ou plusieurs outils cloud vous feront
+          gagner du temps. 
+
+
+          Comme dans un **Rubikub,** les combinaisons sont innombrables. Nous
+          les évaluons et trouvons celle qui "fait le job !"
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
