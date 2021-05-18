@@ -180,7 +180,7 @@ sections:
 
 
           **Audrey,** *Adminsys*
-        image: images/eleanor-carr.png
+        image: /images/conseiller-numerique-adminsys.png
         image_position: left
         image_width: twenty-five
       - type: grid_item
