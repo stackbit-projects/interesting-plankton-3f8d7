@@ -157,7 +157,7 @@ sections:
           usage.
 
 
-          **Jean** *a.k.a.* "Ptit Jean"  *Dev Fullstack*
+          **Antoine** *a.k.a.* "Ptit Bob"  *Dev Fullstack*
         image: /images/avataaars.png
         image_position: left
         image_width: twenty-five
