@@ -209,10 +209,8 @@ sections:
       ## Contactez Votre Conseiller Numérique
 
       *   Répondre à vos questions, même les plus pointues.
-
-      #### Vous assister dans la conception votre projet digital.
-
-      #### Vous accompagner pour en garantir la réussite.
+      *   Vous assister dans la conception votre projet digital.
+      *   Vous accompagner pour en garantir la réussite.
 
       **Contactez-nous dès à présent pour en parler !**
     content_align: left
