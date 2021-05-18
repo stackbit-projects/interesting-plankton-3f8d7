@@ -179,7 +179,7 @@ sections:
           savoir qui les trouvera en premier !
 
 
-          **Mickael,** *Adminsys*
+          **Audrey,** *Adminsys*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
