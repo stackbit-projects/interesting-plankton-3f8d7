@@ -187,10 +187,10 @@ sections:
         template: grid_item
         content: >
           S'appuyer sur la data, segmenter, tester et  ajuster en temps réel :
-          les bases d'une campagne digitale efficace. 
+          les bases d'une campagne digitale efficace.
 
 
-          **Charline,** *Consultante en e-marketing*
+          **Slimane,** *Consultant en e-marketing*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
