@@ -21,8 +21,8 @@ sections:
 
 
       Nos premiers échanges ne vous engagent strictement à rien. Vous êtes
-      également libre, par la suite, d'arrêter la mission de votre conseiller
-      quand vous le souhaitez.
+      également libre, par la suite, d'arrêter la mission de Votre Conseiller
+      Numérique quand vous le souhaitez.
 
 
       ### Satisfait ou remboursé
