@@ -11,7 +11,7 @@ sections:
         label: Contactez-nous
         url: /contact
         style: primary
-    image: /images/hero1.png
+    image: /images/engineer-svgrepo-com.svg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
