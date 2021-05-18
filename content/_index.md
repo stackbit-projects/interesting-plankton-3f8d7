@@ -158,7 +158,7 @@ sections:
 
 
           **Antoine** *a.k.a.* "Ptit Bob"  *Dev Fullstack*
-        image: /images/conseiller-numerique-dev-fullstack.png
+        image: /images/nervous-rabbit.png
         image_position: left
         image_width: twenty-five
       - type: grid_item
