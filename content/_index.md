@@ -208,8 +208,6 @@ sections:
     content: |
       ## Contactez Votre Conseiller Numérique
 
-      **Nous sommes là pour :**
-
       #### Répondre à vos questions, même les plus pointues.
 
       #### Vous assister pour concevoir votre projet digital.
