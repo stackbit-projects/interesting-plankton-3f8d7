@@ -38,7 +38,7 @@ params:
         style: link
     has_secondary_nav: false
     has_anncmnt: false
-    logo: /images/terrific-chili.svg
+    logo: /images/earlybirds-svgrepo-com-1.svg
   footer:
     type: footer
     template: footer
