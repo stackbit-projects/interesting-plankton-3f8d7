@@ -261,7 +261,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Stackbit Personal Theme
+  title: Votrecnseillernumerique
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
