@@ -38,7 +38,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-3.svg
+        image: /images/incredible-maple.svg
         image_alt: Logo 3
         image_align: center
       - type: grid_item
