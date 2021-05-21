@@ -1,5 +1,6 @@
+---
 title: Votre Conseiller Numérique
-baseURL: /
+baseURL: "/"
 params:
   layout_type: boxed
   style: classic
@@ -9,117 +10,178 @@ params:
   header:
     type: header
     template: header
-    logo_alt: Alyvia logo
+    logo_alt: 'Votre conseiller numérique : assistance et accompagnement de vos projets
+      digitaux'
     has_primary_nav: true
     primary_nav_links:
-      - type: action
-        template: action
-        label: Nos services
-        url: /nos-services
-        style: link
-      - label: Offres et tarifs
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: /offres-et-tarifs
-      - type: action
-        template: action
-        label: Qui sommes-nous ?
-        url: /about
-        style: link
-      - type: action
-        template: action
-        label: Contactez-nous
-        url: /contact
-        style: link
+    - type: action
+      template: action
+      label: Nos services
+      url: "/nos-services"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - label: Offres et tarifs
+      style: link
+      has_icon: false
+      icon: arrow-left
+      icon_position: right
+      new_window: false
+      no_follow: false
+      type: action
+      url: "/offres-et-tarifs"
+    - type: action
+      template: action
+      label: Qui sommes-nous ?
+      url: "/about"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Contactez-nous
+      url: "/contact"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
     has_secondary_nav: false
     has_anncmnt: false
-    logo: /images/enthusiastic-onion.svg
+    logo: "/images/enthusiastic-onion.svg"
+    title: ''
+    secondary_nav_links: []
+    anncmnt_content: ''
+    anncmnt_align: ''
+    anncmnt_is_home_only: false
+    anncmnt_has_close: false
+    anncmnt_id: ''
   footer:
     type: footer
     template: footer
-    logo: /images/green-maple.svg
+    logo: "/images/green-maple.svg"
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
-      - type: action
-        template: action
-        label: Qui sommes nous ?
-        url: /about
-        style: link
-      - type: action
-        template: action
-        label: Ce que nous faisons !
-        url: /faq
-        style: link
-      - type: action
-        template: action
-        label: Contactez-nous
-        url: /contact
-        style: link
+    - type: action
+      template: action
+      label: Qui sommes nous ?
+      url: "/about"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Ce que nous faisons !
+      url: "/faq"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Contactez-nous
+      url: "/contact"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
     has_secondary_nav: true
     secondary_nav_links:
-      - type: action
-        template: action
-        label: Offres et tarifs
-        url: /offres-et-tarifs
-        style: link
-      - type: action
-        template: action
-        label: Copyrights
-        url: /terms-conditions
-        style: link
-      - type: action
-        template: action
-        label: Politique de confidentialité
-        url: /privacy-policy
-        style: link
+    - type: action
+      template: action
+      label: Offres et tarifs
+      url: "/offres-et-tarifs"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Copyrights
+      url: "/terms-conditions"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Politique de confidentialité
+      url: "/privacy-policy"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
     has_social: true
     social_links:
-      - type: action
-        template: action
-        label: Twitter
-        url: 'https://twitter.com/'
-        style: link
-        has_icon: true
-        icon: twitter
-        icon_position: center
-        new_window: true
-      - type: action
-        template: action
-        label: Instagram
-        url: 'https://www.instagram.com/'
-        style: link
-        has_icon: true
-        icon: instagram
-        icon_position: center
-        new_window: true
-      - type: action
-        template: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: link
-        has_icon: true
-        icon: linkedin
-        icon_position: center
-        new_window: true
-    content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
-  domain: 'https://votreconseillernum.netlify.app/'
+    - type: action
+      template: action
+      label: Twitter
+      url: https://twitter.com/
+      style: link
+      has_icon: true
+      icon: twitter
+      icon_position: center
+      new_window: true
+      no_follow: false
+    - type: action
+      template: action
+      label: Instagram
+      url: https://www.instagram.com/
+      style: link
+      has_icon: true
+      icon: instagram
+      icon_position: center
+      new_window: true
+      no_follow: false
+    - type: action
+      template: action
+      label: LinkedIn
+      url: https://www.linkedin.com/
+      style: link
+      has_icon: true
+      icon: linkedin
+      icon_position: center
+      new_window: true
+      no_follow: false
+    content: '&copy; Stackbit. All rights reserved. This Jamstack site was created
+      with <a href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
+      rel="noopener">Stackbit</a>. Create yours <a href="https://app.stackbit.com/create?theme=personal&utm_source=deployed-footer"
+      target="_blank" rel="noopener">now</a>'
+    primary_nav_title: ''
+    secondary_nav_title: ''
+    has_tertiary_nav: false
+    tertiary_nav_title: ''
+    tertiary_nav_links: []
+    links: []
+  domain: https://votreconseillernum.netlify.app/
+  favicon: ''
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
 markup:
   goldmark:
     renderer:
