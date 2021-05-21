@@ -58,7 +58,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-7.svg
+        image: /images/conseil-techno-dart.svg
         image_alt: Logo 7
         image_align: center
       - type: grid_item
