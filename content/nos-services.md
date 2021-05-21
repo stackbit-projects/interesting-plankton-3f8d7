@@ -38,6 +38,30 @@ sections:
           aucune commission et n'avons aucun intérêt à vous orienter vers une
           solution qui ne vous correspondrait pas pleinement. Seul votre intérêt
           compte !
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - type: grid_item
         template: grid_item
         title: Notre expertise est accessible et abordable
