@@ -60,6 +60,6 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 ![](https://i.imgur.com/bZdE34n.jpg)
 
-## Contrairement aux apparences nous ne sommes très expérimentés
+## Contrairement aux apparences nous sommes très expérimentés
 
 ![](https://i.imgur.com/tNMzFdY.jpg)
