@@ -33,7 +33,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: /images/jenkins.svg
+        image: /images/splendid-lettuce.svg
         image_alt: Logo 2
         image_align: center
       - type: grid_item
