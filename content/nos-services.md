@@ -25,25 +25,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Notre expertise est accessible et abordable
-        content: >
-          Votre Conseiller Numérique est là pour **vous faire économisez du
-          temps et de l'argent !** Ne perdez plus des heures ni même des
-          journées à lire tout et son contraire sur internet au point de ne plus
-          savoir par où commencer. Une veille technologique constante nous
-          permet d'identifier rapidement les solutions en adéquation avec votre
-          projet.
-
-
-          Ne vous fiez pas seulement aux belles présentations PowerPoint, aux
-          maquettes qui "en jettent" ou au baratin jargonneux qui n'est souvent
-          là que pour vous impressionner. Nous, nous allons droit à l'essentiel
-          et c'est aussi pour cela que nos tarifs sont particulièrement
-          abordables.
-
-
-          Nous ne perdons pas de temps à rédiger un cahier de charges de deux
-          cents pages que personne ne lit ou à vous produire de "jolies slides".
-          Nos recommandations sont claires, compréhensible et opérationnelles.
+        content: "\U0001F9D1‍\U0001F3EB Votre Conseiller Numérique est là pour **vous faire économisez du temps et de l'argent !** Ne perdez plus des heures ni même des journées à lire tout et son contraire sur internet au point de ne plus savoir par où commencer. Une veille technologique constante nous permet d'identifier rapidement les solutions en adéquation avec votre projet.\n\nNe vous fiez pas seulement aux belles présentations PowerPoint, aux maquettes qui \"en jettent\" ou au baratin jargonneux qui n'est souvent là que pour vous impressionner. Nous, nous allons droit à l'essentiel et c'est aussi pour cela que nos tarifs sont particulièrement abordables.\n\nNous ne perdons pas de temps à rédiger un cahier de charges de deux cents pages que personne ne lit ou à vous produire de \"jolies slides\". Nos recommandations sont claires, compréhensible et opérationnelles.\n"
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
