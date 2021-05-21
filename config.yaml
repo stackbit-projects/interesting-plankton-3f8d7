@@ -70,7 +70,7 @@ params:
         style: link
       - type: action
         template: action
-        label: C
+        label: Copy
         url: /terms-conditions
         style: link
       - type: action
