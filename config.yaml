@@ -75,7 +75,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Privacy Policy
+        label: Politique de confidentialité
         url: /privacy-policy
         style: link
     has_social: true
