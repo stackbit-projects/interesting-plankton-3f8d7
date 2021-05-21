@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     template: hero_section
-    title: L'expertise du digital enfin accessible au plus grand nombre
+    title: L'expertise du digital (presque) accessible à tous !
     subtitle: >-
       Des services à la carte, des conseils personnalisés et une expertise
       indépendante pour réussir votre projet sans se tromper.
