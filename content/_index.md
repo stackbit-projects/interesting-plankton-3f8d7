@@ -48,7 +48,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: /images/ansible.svg
+        image: /images/conseil-techno-flutter.svg
         image_alt: Logo 5
         image_align: center
       - type: grid_item
