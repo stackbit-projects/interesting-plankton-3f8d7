@@ -33,11 +33,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Notre expertise est indépendante
-        content: >
-          Nous ne sommes liés à aucune entreprise particulière, ne touchons
-          aucune commission et n'avons aucun intérêt à vous orienter vers une
-          solution qui ne vous correspondrait pas pleinement. Seul votre intérêt
-          compte !
+        content: "\U0001F9D1‍\U0001F91D‍\U0001F9D1 Nous ne sommes liés à aucune entreprise particulière, ne touchons aucune commission et n'avons aucun intérêt à vous orienter vers une solution qui ne vous correspondrait pas pleinement. Seul votre intérêt compte !\n"
       - type: grid_item
         template: grid_item
         title: Notre expertise est accessible et abordable
