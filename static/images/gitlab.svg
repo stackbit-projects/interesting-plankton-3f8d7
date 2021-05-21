@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 64.888077 60"
+   version="1.1"
+   id="svg103"
+   sodipodi:docname="gitlab.svg"
+   width="64.888077"
+   height="60"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata109">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs107" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1564"
+     inkscape:window-height="872"
+     id="namedview105"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="10.220776"
+     inkscape:cy="11.094882"
+     inkscape:window-x="36"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg103" />
+  <title
+     id="title99">GitLab icon</title>
+  <path
+     d="m 13.100548,0.00278597 c -1.176104,0 -2.217024,0.757032 -2.582022,1.87095103 C 7.1362131,12.291046 3.3699763,23.860125 0.19043975,33.612326 A 3.885199,3.885199 0 0 0 1.6017646,37.957152 L 31.53429,59.708318 c 0.540737,0.392035 1.27614,0.389331 1.81147,-0.01082 L 63.283693,37.959855 a 3.8824953,3.8824953 0 0 0 1.411325,-4.352937 C 61.220779,22.948982 57.441024,11.285274 54.375042,1.849404 A 2.7145023,2.7145023 0 0 0 51.787613,8.1965146e-5 2.6685396,2.6685396 0 0 0 49.221814,1.865626 L 42.719445,21.894544 H 22.179531 L 15.663644,1.865626 A 2.6685396,2.6685396 0 0 0 13.11677,8.1965146e-5 H 13.10055 Z M 13.084328,3.842022 18.959441,21.897248 H 7.2335458 Z m 38.733028,0 5.861594,18.055226 H 45.942241 Z m -28.640163,21.1158 h 18.552704 c -3.087611,9.51698 -6.186037,19.03396 -9.284463,28.548237 L 23.177193,24.960526 Z M 8.2690601,24.971342 H 19.951692 l 8.34358,25.685032 z m 36.6809289,0 H 56.643436 C 49.973439,33.54203 43.260183,42.080275 36.606407,50.661779 39.385798,42.099201 42.1733,33.536622 44.949987,24.97134 Z M 5.6789255,26.655738 24.542554,50.84563 3.4078279,35.483277 A 0.82462471,0.82462471 0 0 1 3.1050149,34.56132 Z m 53.5276065,0 2.57391,7.900175 a 0.82462471,0.82462471 0 0 1 -0.297405,0.921957 v 0.0054 L 40.3402,50.840226 l 0.0703,-0.09463 z"
+     id="path101"
+     inkscape:connector-curvature="0"
+     style="stroke-width:2.70368767" />
+</svg>
