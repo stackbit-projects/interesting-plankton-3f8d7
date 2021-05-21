@@ -70,7 +70,7 @@ params:
         style: link
       - type: action
         template: action
-        label: Terms & Conditions
+        label: C
         url: /terms-conditions
         style: link
       - type: action
