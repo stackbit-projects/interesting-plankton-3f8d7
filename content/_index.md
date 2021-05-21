@@ -11,7 +11,7 @@ sections:
         label: Contactez-nous
         url: /contact
         style: primary
-    image: /images/engineer-svgrepo-com.svg
+    image: /images/votre-conseiller-numerique-developpeur.svg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
