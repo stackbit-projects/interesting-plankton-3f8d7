@@ -38,7 +38,7 @@ params:
         style: link
     has_secondary_nav: false
     has_anncmnt: false
-    logo: /images/votre-conseiller-numerique-logo.svg
+    logo: /images/incredible-turtle.svg
   footer:
     type: footer
     template: footer
