@@ -21,7 +21,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Notre expertise est indépendante
-        content: "\U0001F985 Nous ne sommes liés à aucune entreprise particulière, ne touchons aucune commission et n'avons aucun intérêt à vous orienter vers une solution qui ne vous correspondrait pas pleinement. Seul votre intérêt compte !\n"
+        content: "\U0001F985 Nous ne sommes liés à aucune entreprise particulière, ne touchons aucune commission et n'avons aucun intérêt à vous orienter vers une solution qui ne vous correspondrait pas pleinement. Seul votre intérêt compte !\n\nVotre Conseiller Numérique est là pour **vous faire économisez du temps et de l'argent !** \n"
       - type: grid_item
         template: grid_item
         title: Notre expertise est accessible et abordable
