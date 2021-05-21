@@ -33,7 +33,7 @@ sections:
       - type: grid_item
         template: grid_item
         content: "\U0001F3D7️ Votre Conseiller Numérique vous  accompagne sur tout type de projets : site internet, application mobile, plateforme métier, publicité digitale, informatique réseau, sécurité de votre système d'information, protection des données personnelles, projet de certification ISO, recherche de prestataires, analyse des offres, audits.\n\nÀ tout moment, il peut mobiliser notre réseau de compétences pour s'adapter à votre besoin et vous aider à faire les bons choix !\n"
-        title: Quel que soit votre projet !
+        title: Quel que soit votre projet digital
       - type: grid_item
         template: grid_item
         title: 'Un parti pris technologique : le pragmatisme'
