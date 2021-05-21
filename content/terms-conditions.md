@@ -25,11 +25,13 @@ layout: page
 ---
 Icone du programmeur en page d'accueil : [iconixar](https://www.flaticon.com/authors/iconixar)
 
-Earlybirds par [Icons8](https://github.com/icons8/line-awesome)
+
+
+Rubik Cube par SVG Repo
+
+
 
 [Sorkin Type Co](https://www.fontsquirrel.com/fonts/list/foundry/sorkin-type-co) pour sa typo Fjalla One
-
-
 
 Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique.
 
