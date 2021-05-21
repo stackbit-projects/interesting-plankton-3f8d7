@@ -43,7 +43,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: /images/thoughtful-petunia.svg
+        image: /images/royal-tulip.svg
         image_alt: Logo 4
         image_align: center
       - type: grid_item
