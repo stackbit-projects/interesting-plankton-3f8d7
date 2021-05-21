@@ -25,7 +25,9 @@ layout: page
 ---
 Elle est extrêmement simple : vos données vous appartiennent et vous en faites ce que vous voulez.
 
+Nous ne récupérons que ce que vous entrez dans le formulaire de contact afin de nous permettre de vous recontacter. C'est aussi simple que ça ! 
 
+La finalité de traitement est donc minimaliste et vos données sont supprimées au bout d'un mois si vous ne faites pas appel à nos services.
 
 
 
