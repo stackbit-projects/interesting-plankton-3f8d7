@@ -261,7 +261,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 'Votre Conseiller Numérique : faire les bons choix'
+  title: Votre Conseiller Numérique
   description: 'Répondre à vos questions, assister accompagner votre projet'
   extra:
     - name: 'og:type'
