@@ -47,25 +47,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Nous vous évitons les mauvaises surprises
-        content: >
-          Ne partez pas à l'aveuglette ! Un Conseiller Numérique, c'est la
-          meilleure garantie d'éviter les mauvaises surprises : les projets qui
-          s'éternisent ou échouent, les prestataires qui vous font faux bond ou
-          vous baladent, car le client de toute façon "ni comprend rien".
-
-
-          La plupart des entreprises de services numériques font bien leur
-          travail, pas nécessairement les plus grandes ou les plus connues. Mais
-          les agences de communication digitale qui vous facturent des sommes
-          exorbitantes pour un travail parfois très simple ne sont pas rares.
-
-
-          Quoi de plus exaspérant qu'un prestataire qui, une fois le devis
-          signé, fait preuve de mauvaise volonté avec des réponses du type :
-          c'est difficile à faire, on a besoin de deux journées de développement
-          supplémentaires, mais pas avant la semaine prochaine ; le dev est sur
-          un autre projet ; ajoutez un ticket et je vais regarder ; je vous
-          envoie un nouveau devis...
+        content: "\U0001F629 Ne partez pas à l'aveuglette ! Un Conseiller Numérique, c'est la meilleure garantie d'éviter les mauvaises surprises : les projets qui s'éternisent ou échouent, les prestataires qui vous font faux bond ou vous baladent, car le client de toute façon \"ni comprend rien\".\n\nLa plupart des entreprises de services numériques font bien leur travail, pas nécessairement les plus grandes ou les plus connues. Mais les agences de communication digitale qui vous facturent des sommes exorbitantes pour un travail parfois très simple ne sont pas rares.\n\nQuoi de plus exaspérant qu'un prestataire qui, une fois le devis signé, fait preuve de mauvaise volonté avec des réponses du type : c'est difficile à faire, on a besoin de deux journées de développement supplémentaires, mais pas avant la semaine prochaine ; le dev est sur un autre projet ; ajoutez un ticket et je vais regarder ; je vous envoie un nouveau devis...\n"
       - type: grid_item
         template: grid_item
         content: >
