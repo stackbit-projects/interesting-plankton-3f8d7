@@ -63,3 +63,9 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 ## Contrairement aux apparences nous sommes très expérimentés
 
 ![](https://i.imgur.com/tNMzFdY.jpg)
+
+## Nous sommes souvent barbus, mais pas encore en voie d'extinction
+
+![](https://i.imgur.com/zJqr9kI.jpg)
+
+Nous n'habitons plus depuis longtemps dans la cave de nos parents
