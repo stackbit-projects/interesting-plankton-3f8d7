@@ -53,7 +53,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-6.svg
+        image: /images/conseil-techno-ansible.svg
         image_alt: Logo 6
         image_align: center
       - type: grid_item
