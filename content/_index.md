@@ -33,7 +33,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-2.svg
+        image: /images/dart.svg
         image_alt: Logo 2
         image_align: center
       - type: grid_item
