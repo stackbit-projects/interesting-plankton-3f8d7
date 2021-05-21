@@ -23,8 +23,13 @@ seo:
       value: This is the privacy policy page
 layout: page
 ---
+Elle est extrêmement simple : vos données vous appartiennent et vous en faites ce que vous voulez.
 
-Donec luctus lorem sit amet tincidunt euismod. Etiam ut mauris non magna placerat tempor non vel purus. Quisque ac urna eu sapien placerat aliquet eget id diam. Sed elementum enim non mollis consequat. Maecenas laoreet elementum elit, id luctus odio sagittis nec. Nam ornare lorem sed nunc aliquet vulputate. Phasellus fringilla lacus mi, in porta quam eleifend vitae. Cras suscipit, neque blandit tempor aliquam, tortor sem tristique ex, non scelerisque justo massa id tortor. Maecenas tristique at metus non volutpat. Pellentesque nec felis eu dui tristique cursus sit amet vitae nibh. Duis malesuada ullamcorper sapien viverra tristique. Quisque malesuada, ligula vel lobortis ornare, turpis purus consequat massa, sit amet auctor velit neque sit amet justo. Donec at est sed nisl posuere commodo.
+
+
+
+
+
 
 ## Phasellus Finibus Risus Eget est Cursus Finibus
 
@@ -38,7 +43,7 @@ Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu
 
 Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis. 
+In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis.
 
 ## Aliquam at Velit eu Elit Iaculis Cursus
 
