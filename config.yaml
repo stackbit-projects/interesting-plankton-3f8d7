@@ -175,7 +175,7 @@ params:
     tertiary_nav_links: []
     links: []
   domain: https://votreconseillernum.netlify.app/
-  favicon: ''
+  favicon: "/images/votre-conseiller-numerique-developpeur.svg"
 taxonomies:
   stub: stub
 disableKinds:
