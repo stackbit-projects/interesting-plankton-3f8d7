@@ -262,7 +262,7 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: Votre Conseiller Numérique
-  description: 'Répondre à vos questions, accompagner votre projet'
+  description: 'Répondre à vos questions, faire les bons choix, accompagner votre projet'
   extra:
     - name: 'og:type'
       value: website
