@@ -48,7 +48,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: images/logo-5.svg
+        image: /images/ansible.svg
         image_alt: Logo 5
         image_align: center
       - type: grid_item
