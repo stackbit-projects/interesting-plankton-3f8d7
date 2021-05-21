@@ -29,6 +29,6 @@ Nous ne récupérons que ce que vous saisissez dans le formulaire de contact afi
 
 Par un simple email via notre formulaire de contact, vous pouvez **faire valoir vos droits** qui sont nombreux : accès, rectification, effacement, opposition... Nous y donnons suite dès que possible sous 48 heures.
 
-Pour connaître l'ensemble de vos droits, lisez attentivement le [Chapitre III du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3) ou Règlement 2016/679 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données pour être beaucoup plus précis 😉
+Pour connaître l'ensemble de vos droits, consultez le [Chapitre III du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3) ou Règlement 2016/679 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données pour être beaucoup plus précis. C'est une excellente lecture que vous pourrez mettre à profit pour taquiner ensuite les entreprises qui vivent de vos données personnelles 😉
 
 ###
