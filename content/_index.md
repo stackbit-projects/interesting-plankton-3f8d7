@@ -38,7 +38,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: /images/good-moon.svg
+        image: /images/conseil-techno-rust.svg
         image_alt: Logo 3
         image_align: center
       - type: grid_item
