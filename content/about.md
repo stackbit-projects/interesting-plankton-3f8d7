@@ -56,4 +56,6 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 À chaque demande et en fonction de sa complexité, il **mobilise l'expertise nécessaire** au sein du réseau pour vous apporter les meilleures réponses. Cette connaissance approfondie des solutions existantes et de la manière de les assembler est au cœur des compétences de chaque Conseiller Numérique.
 
-![](https://pixabay.com/images/id-4967590/)
+Nous sommes toujours en veille, à l'affut 
+
+![](https://i.imgur.com/bZdE34n.jpg)
