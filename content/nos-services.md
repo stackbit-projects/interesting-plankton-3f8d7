@@ -16,7 +16,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Nos conseils sont personnalisés
+        title: seils sont personnalisés
         content: >
           Petit ou grand, simple ou complexe, votre projet est unique et nous
           savons qu'il est important pour vous.
