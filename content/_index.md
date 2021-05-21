@@ -247,7 +247,7 @@ sections:
         template: form_field
         input_type: checkbox
         name: consent
-        label: Je reconnais être majeur et consens à obtenir une réponse ;-)
+        label: Je reconnais être majeur et consens à obtenir une réponse.
         is_required: true
     submit_label: Envoyer
     align_vert: top
