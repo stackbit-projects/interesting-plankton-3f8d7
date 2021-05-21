@@ -23,9 +23,11 @@ seo:
       value: This is the terms and conditions page
 layout: page
 ---
-
-
 Icone du programmeur en page d'accueil : [iconixar](https://www.flaticon.com/authors/iconixar)
+
+Earlybirds par [Icons8](https://github.com/icons8/line-awesome)
+
+[Sorkin Type Co](https://www.fontsquirrel.com/fonts/list/foundry/sorkin-type-co) pour sa typo Fjalla One
 
 
 
