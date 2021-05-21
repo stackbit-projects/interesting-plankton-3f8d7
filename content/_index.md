@@ -261,7 +261,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Votrecnseillernumerique
+  title: 'Votre Conseiller Numérique : faire les bons choix'
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
