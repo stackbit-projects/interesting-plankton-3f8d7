@@ -28,7 +28,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        image: /images/nuxt-dot-js.svg
+        image: /images/conseil-techno-nuxt.svg
         image_alt: Logo 1
         image_align: center
       - type: grid_item
