@@ -90,21 +90,21 @@ sections:
 
 
           Si des solutions libres, bien documentées et adossées à des
-          communautés actives, tant mieux ! Si elles sont à la fois rapides,
-          souples et solides, c'est encore mieux ! Mais le meilleur parti pris
+          communautés actives, tant mieux ! Si elles sont à la fois** rapides,
+          souples et solides**, c'est encore mieux ! Mais le meilleur parti pris
           est toujours celui du pragmatisme, c’est-à-dire la capacité à
-          s'adapter au contexte et à **faire le maximum avec les moyens dont on
-          dispose**.
+          s'adapter au contexte et à faire le maximum avec les moyens dont on
+          dispose.
 
 
           Pour un même projet, les choix peuvent être radicalement différents.
           Parfois, une solution internalisée s'impose pour préserver votre
           indépendance ; d'autres fois un ou plusieurs outils cloud vous feront
-          gagner du temps. 
+          gagner énormément de temps.
 
 
           Comme dans un **Rubikub,** les combinaisons sont innombrables. Nous
-          les évaluons et trouvons celle qui "fait le job !"
+          les évaluons et trouvons celles qui s'emboitent bien !
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
