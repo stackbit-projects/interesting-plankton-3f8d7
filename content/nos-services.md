@@ -17,19 +17,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Nos conseils sont personnalisés
-        content: >
-          Petit ou grand, simple ou complexe, votre projet est unique et nous
-          savons qu'il est important pour vous.
-
-
-          Aussi, nous privilégions toujours une écoute approfondie de votre
-          besoin qui se traduit en recommandations claires, précises, et surtout
-          opérationnelles !
-
-
-          Votre Conseiller Numérique est un **interlocuteur unique qui mobilise
-          notre réseau** de compétences pour répondre à vos questions ou suivre
-          votre projet digital.
+        content: "\U0001F9D1‍\U0001F91D‍\U0001F9D1 Petit ou grand, simple ou complexe, votre projet est unique et nous savons qu'il est important pour vous.\n\nAussi, nous privilégions toujours une écoute approfondie de votre besoin qui se traduit en recommandations claires, précises, et surtout opérationnelles !\n\nVotre Conseiller Numérique est un **interlocuteur unique qui mobilise notre réseau** de compétences pour répondre à vos questions ou suivre votre projet digital.\n"
       - type: grid_item
         template: grid_item
         title: Notre expertise est indépendante
