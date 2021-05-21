@@ -63,7 +63,7 @@ sections:
         image_align: center
       - type: grid_item
         template: grid_item
-        image: /images/super-zebra.svg
+        image: /images/conseil-techno-jenkins.svg
         image_alt: Logo 8
         image_align: center
     grid_cols: four
