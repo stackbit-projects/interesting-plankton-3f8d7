@@ -25,28 +25,16 @@ layout: page
 ---
 Elle est extrêmement simple : vos données vous appartiennent et vous en faites ce que vous voulez.
 
-Nous ne récupérons que ce que vous entrez dans le formulaire de contact afin de nous permettre de vous recontacter. C'est aussi simple que ça ! 
+Nous ne récupérons que ce que vous entrez dans le formulaire de contact afin de nous permettre de vous recontacter. C'est aussi simple que ça ! La finalité de traitement est donc minimaliste. Vos données ne sont transmises à personne et sont supprimées au bout d'un mois si vous ne faites pas appel à nos services.
 
-La finalité de traitement est donc minimaliste et vos données sont supprimées au bout d'un mois si vous ne faites pas appel à nos services.
+Par un simple email via notre formulaire de contact, vous pouvez faire valoir vos droits qui sont nombreux : accès, rectification, effacement, opposition... Nous y donnons suite dès que possible.
+
+Pour connaître l'ensemble de vos droits, consultez le [Chapitre III du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3) ou Règlement 2016/679 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données pour être beaucoup plus précis, 
 
 
 
+**
 
 
-## Phasellus Finibus Risus Eget est Cursus Finibus
 
-Aliquam aliquam porta massa, et aliquam tortor mollis quis. Sed sodales leo vulputate metus gravida cursus. In fringilla imperdiet elit. Etiam eget sapien elementum, facilisis arcu vitae, finibus ipsum. Aliquam erat nibh, commodo id urna ut, fermentum tristique metus.
-
-### Morbi Egestas Ullamcorper Vulputate
-
-Mauris dignissim varius arcu in laoreet. In mollis erat velit, in hendrerit arcu lobortis in. Donec facilisis malesuada sapien, non mollis lacus faucibus quis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-### Donec Vitae Tincidunt Erat
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-In et diam congue, porta dui ac, rhoncus diam. Quisque imperdiet ex nec lorem gravida ultrices. Fusce ut volutpat metus. Morbi sollicitudin mi vel erat consectetur gravida. Donec consequat velit eget turpis dapibus, sed scelerisque sem pulvinar. Phasellus sit amet arcu eu metus auctor finibus. Phasellus a mauris ut urna auctor ornare. Morbi mollis laoreet orci at iaculis.
-
-## Aliquam at Velit eu Elit Iaculis Cursus
-
-In eu neque leo. Proin felis risus, maximus at ornare non, feugiat ac dui. Nam ornare feugiat sem, ac pretium urna bibendum quis. In hac habitasse platea dictumst. Curabitur sapien ante, molestie sit amet maximus id, malesuada eget felis. Praesent nec imperdiet neque.
+###
