@@ -72,7 +72,9 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS & TECHNOS
-    title: Une "bonne pioche" ne doit rien au hasard
+    title: >-
+      Faire de bons choix, ça ne s'improvise pas ! Nous ne retenons que ce qui
+      marchent vraiment
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
