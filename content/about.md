@@ -69,3 +69,7 @@ Nous ne sommes pas des débutants, mais continuons d'apprendre tous les jours
 Nous aimons tout autant Vim que Emacs et sommes pour la plupart abonnés à Linux Mag.
 
 Nous n'habitons plus depuis longtemps dans la cave de nos parents !
+
+Nous raffolons des casse-têtes 
+
+![](https://i.imgur.com/sW8dtBp.jpg)
