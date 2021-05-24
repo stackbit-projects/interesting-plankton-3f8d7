@@ -58,18 +58,14 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 Nous aimons les ordinateurs de légende !
 
-Nous ne sommes pas des débutants, mais continuons d'apprendre tous les jours
-
-Nous aimons tout autant Vim que Emacs et sommes pour la plupart abonnés à Linux Mag.
-
-Nous n'habitons plus depuis longtemps dans la cave de nos parents !
+![](https://i.imgur.com/IKHDfD3.jpg)
 
 Nous sommes toujours à l'affut de nouvelles technologies !
 
 ![](https://i.imgur.com/bZdE34n.jpg)
 
+Nous ne sommes pas des débutants, mais continuons d'apprendre tous les jours
 
+Nous aimons tout autant Vim que Emacs et sommes pour la plupart abonnés à Linux Mag.
 
-
-
-![](https://i.imgur.com/IKHDfD3.jpg)
+Nous n'habitons plus depuis longtemps dans la cave de nos parents !
