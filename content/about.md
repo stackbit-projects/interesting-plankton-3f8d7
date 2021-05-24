@@ -66,6 +66,6 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 ## Nous sommes souvent barbus, mais pas encore en voie d'extinction
 
-![](https://i.imgur.com/zJqr9kI.jpg)
+
 
 Nous n'habitons plus depuis longtemps dans la cave de nos parents
