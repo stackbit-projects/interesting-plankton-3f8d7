@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Copyrights
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
