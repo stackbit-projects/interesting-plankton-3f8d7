@@ -60,12 +60,14 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 ![](https://i.imgur.com/bZdE34n.jpg)
 
-## Contrairement aux apparences nous sommes très expérimentés
+##
 
-![](https://i.imgur.com/tNMzFdY.jpg)
+Nous ne sommes pas des débutants, mais continuons d'apprendre tous les jours
 
-## Nous sommes souvent barbus, mais pas encore en voie d'extinction
+Nous sommes souvent barbus, mais pas encore en voie d'extinction
 
+Nous n'habitons plus depuis longtemps dans la cave de nos parents !
 
+Nous aimons les ordinateurs de légende !
 
-Nous n'habitons plus depuis longtemps dans la cave de nos parents
+![](https://i.imgur.com/IKHDfD3.jpg)
