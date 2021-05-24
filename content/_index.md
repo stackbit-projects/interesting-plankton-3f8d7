@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     template: hero_section
-    title: Votre Conseiller Numérique vous aide à faire les bons choix
+    title: 'Votre Conseiller Numérique : au service de tous vos projets digitaux.'
     subtitle: "Besoin d'un avis ou d'un accompagnement complet, un réseau d'experts au service de tous vos projets digitaux ! \U0001F91D"
     actions:
       - type: action
