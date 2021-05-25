@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: 'Votre Conseiller Numérique : au service de tous vos projets digitaux'
-    subtitle: "Besoin d'un avis expert, d'une assistance ponctuelle ou d'un accompagnement complet, notre réseau vous aide à réussir\_ \U0001F91D"
+    subtitle: "Besoin d'un avis expert, d'une assistance à la conception ou d'un accompagnement complet, notre réseau vous aide à réussir\_ \U0001F91D"
     actions:
       - type: action
         template: action
