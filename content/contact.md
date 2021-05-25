@@ -70,7 +70,7 @@ sections:
         template: form_field
         input_type: checkbox
         name: consent
-        label: "Je reconnais être majeur et consens à obtenir une réponse \U0001F604"
+        label: Je reconnais être majeur et consens à obtenir une réponse
         is_required: true
     submit_label: Send Message
     align_vert: top
