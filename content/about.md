@@ -62,6 +62,8 @@ Nous sommes aguerris, mais continuons d'apprendre tous les jours.
 
 Nous aimons le logiciel libre, mais sans exclusive.
 
+Certains d'entre nous ont utilisé AltaVista et Nomade.
+
 Nous sommes ouverts à des projets de collaboration autour de services innovants.
 
 Nous ne sommes pas tous barbus et n'habitons pas ou plus dans la cave de nos parents !
