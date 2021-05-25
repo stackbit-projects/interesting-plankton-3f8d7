@@ -84,9 +84,7 @@ sections:
         content: >
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
-          d'information**... Nous analysons votre besoin et vous recommandons
-          les solutions les plus adaptées, celles qui répondent à vos objectifs
-          tout en respectant votre budget.
+          d'information**... 
         actions:
           - type: action
             template: action
