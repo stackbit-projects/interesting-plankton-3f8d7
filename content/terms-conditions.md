@@ -25,7 +25,7 @@ layout: page
 ---
 Nos dettes de reconnaissances vont à :
 
-#### Motorisation du site
+### Motorisation du site
 
 Steve Francia, Bjorn Erik Pedersen et toute la communauté qui travaillent à développer HUGO, un générateur de site statique écrit en Go et ultra-performant.
 
@@ -35,7 +35,7 @@ Steve Francia, Bjorn Erik Pedersen et toute la communauté qui travaillent à d�
 
 *   [Netifly](https://www.netlify.com/) pour leur offre d'hébergement de sites statiques.
 
-#### Graphisme
+### Graphisme
 
 *   [Sorkin Type Co](https://www.fontsquirrel.com/fonts/list/foundry/sorkin-type-co) pour la typo Fjalla One.
 
