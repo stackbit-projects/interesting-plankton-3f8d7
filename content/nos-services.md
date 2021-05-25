@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Nos services
 sections:
   - type: hero_section
     template: hero_section
