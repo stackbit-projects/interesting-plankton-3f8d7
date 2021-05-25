@@ -56,6 +56,16 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 À chaque demande et en fonction de sa complexité, il **mobilise l'expertise nécessaire** au sein du réseau pour vous apporter les meilleures réponses. Cette connaissance approfondie des solutions existantes et de la manière de les assembler est au cœur des compétences de chaque Conseiller Numérique.
 
+Un peu plus sur nous :
+
+Nous sommes aguerris, mais continuons d'apprendre tous les jours.
+
+Nous aimons le logiciel libre, mais sans exclusive.
+
+Nous sommes ouverts à des projets de collaboration autour de services innovants.
+
+Nous ne sommes pas tous barbus et n'habitons pas ou plus dans la cave de nos parents !
+
 Nous aimons les ordinateurs de légende !
 
 ![](https://i.imgur.com/IKHDfD3.jpg)
@@ -63,12 +73,6 @@ Nous aimons les ordinateurs de légende !
 Nous sommes toujours à l'affut de nouvelles technologies !
 
 ![](https://i.imgur.com/bZdE34n.jpg)
-
-Nous ne sommes pas des débutants, mais continuons d'apprendre tous les jours
-
-Nous aimons tout autant Vim que Emacs et sommes pour la plupart abonnés à Linux Mag.
-
-Nous n'habitons plus depuis longtemps dans la cave de nos parents !
 
 Les casse-têtes sont notre lot quotidien !
 
