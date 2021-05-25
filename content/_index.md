@@ -263,9 +263,9 @@ seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
   title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique"
-  description: |-
-
-    accompagner votre projet
+  description: >-
+    Conseils, assistance et accompagnement pour réussir vos projets digitaux :
+    sites internet, e-commerce, application 
   extra:
     - name: 'og:type'
       value: website
