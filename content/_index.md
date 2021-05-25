@@ -87,8 +87,8 @@ sections:
           Site web, boutique en ligne, application mobile, plateforme métier,
           publicité digitale, sécurité informatique, système d'information...
           Nous analysons votre besoin et vous recommandons les solutions les
-          plus adaptées ; vous aidons à sélectionner les compétences nécessaires
-          ; nous nous assurerons de la qualité du travail réalisé.
+          plus adaptées, celles qui répondent à vos objectifs tout en respectant
+          votre budget.
         actions:
           - type: action
             template: action
