@@ -15,7 +15,7 @@ sections:
     has_border: false
     background_image_opacity: 6
     actions:
-      - label: lorem-ipsum
+      - label: Nos offres et tarifs
         url: '#'
         style: primary
         has_icon: true
