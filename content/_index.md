@@ -103,7 +103,7 @@ sections:
       - type: feature
         template: feature
         title: Sélectionner les meilleures technos
-        subtitle: Pour construire de façon durable
+        subtitle: Pour construire de façon solide
         content: >
           Trouver des solutions techniques simples et efficaces, tout à la fois
           rapides, robustes et pérennes, voilà notre mission.
