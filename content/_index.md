@@ -92,7 +92,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: See Writing Samples
+            label: 'Découvez nos services '
             url: /nos-services
             style: primary
             has_icon: true
