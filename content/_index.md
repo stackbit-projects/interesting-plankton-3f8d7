@@ -110,7 +110,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: Nos services
             url: /nos-services
             style: secondary
             has_icon: true
