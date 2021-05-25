@@ -81,7 +81,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Choisir les bons outils
+        title: Pour tous vos projets
         subtitle: Pour réussir vos projets plus facilement
         content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
