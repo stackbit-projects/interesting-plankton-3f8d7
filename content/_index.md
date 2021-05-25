@@ -81,7 +81,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Pour tous vos projets
+        title: Chosir les bons outils
         subtitle: Qu'ils soient grands ou petits
         content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
