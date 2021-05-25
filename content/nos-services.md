@@ -11,6 +11,8 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: primary
+    content: |
+      par où commencer
   - type: grid_section
     template: grid_section
     grid_items:
@@ -50,7 +52,6 @@ sections:
     background_image_opacity: 12
     background_image_size: contain
     background_image_repeat: repeat
- 
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
