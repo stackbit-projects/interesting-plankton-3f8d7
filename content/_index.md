@@ -169,7 +169,7 @@ sections:
           plus, rien de moins. Et surtout ne pas commencer par les détails.
 
 
-          **Oscar,** Srum Master
+          **Oscar,** Scrum Master
         image: /images/conseiller-numerique-scrum-master.png
         image_position: left
         image_width: twenty-five
