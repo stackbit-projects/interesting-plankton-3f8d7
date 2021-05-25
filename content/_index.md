@@ -215,7 +215,7 @@ sections:
       *   **Vous assister** dans la conception votre projet digital.
       *   **Vous accompagner** pour en garantir la réussite.
 
-      Contactez-nous dès à présent pour discuter de votre besoin !
+      Contactez-nous dès à présent pour discuter de votre projet
     content_align: left
     form_position: right
     form_width: fifty
