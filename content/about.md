@@ -68,7 +68,7 @@ Nous sommes ouverts à des projets de collaboration autour de services innovants
 
 Nous ne sommes pas tous barbus et n'habitons pas ou plus dans la cave de nos parents .
 
-Nous aimons les ordinateurs de légende.
+Nous aimons les ordinosaures.
 
 ![](https://i.imgur.com/IKHDfD3.jpg)
 
