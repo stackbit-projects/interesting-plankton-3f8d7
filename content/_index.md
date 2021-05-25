@@ -84,7 +84,8 @@ sections:
         content: >
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
-          d'information**... 
+          d'information**... Que votre projet soit grand ou petit, des solutions
+          simples et efficaces existent.
         actions:
           - type: action
             template: action
