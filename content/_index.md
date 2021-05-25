@@ -111,7 +111,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /about
+            url: /nos
             style: secondary
             has_icon: true
             icon: arrow-right
