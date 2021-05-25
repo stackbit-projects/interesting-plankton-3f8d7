@@ -106,13 +106,14 @@ sections:
         content: >
           Nous analysons votre besoin et vous recommandons les **solutions
           techniques les plus adaptées**, celles qui répondent à vos objectifs
-          tout en respectant votre budget. Rapidité, simplexité et durabilité
-          font partie de nos critères constants d'évaluation.
+          tout en respectant votre budget. Rapidité, simplicité et pérennité
+          font partie de nos constants critères d'évaluation.
 
 
-          Connaître, comparer et savoir assembler les technologies, des
-          standards du marché aux plus innovantes, pour vous faire **faire les
-          bons choix**, telle est notre mission.
+          Connaître, comparer et **savoir assembler les bonnes briques
+          technologiques**, des standards du marché aux dernières innovations,
+          pour vous faire **faire des choix éclairés**, telle est la mission de
+          Votre Conseiller Numérique.
         actions:
           - type: action
             template: action
