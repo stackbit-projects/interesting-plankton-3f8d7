@@ -85,7 +85,7 @@ sections:
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
           d'information**, télétravail... Que votre projet soit grand ou petit,
-          des outils efficaces existent pour lui (re)donner vie sans se ruiner.
+          des outils efficaces existent pour lui donner vie sans se ruiner.
         actions:
           - type: action
             template: action
