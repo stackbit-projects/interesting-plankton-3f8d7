@@ -111,8 +111,8 @@ sections:
 
 
           Connaître, comparer et savoir assembler les technologies, des
-          standards du marché aux plus innovantes, pour vous faire faire les
-          bons choix, telle est notre mission.
+          standards du marché aux plus innovantes, pour vous faire **faire les
+          bons choix**, telle est notre mission.
         actions:
           - type: action
             template: action
