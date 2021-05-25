@@ -14,6 +14,16 @@ sections:
     content: "Par où commencer ? Quelle solution choisir ? Cet outil est-il vraiment adapté ? À qui faire appel ? Comment évaluer techniquement cette offre ? Le prix est-il justifié ? Voilà **autant de questions qu'on se pose souvent au démarrage d'un projet**. Le rôle de Votre Conseiller Numérique est justement d'y répondre. **Mettez toutes les chances de votre côté** pour réussir votre projet \U0001F3C6\n"
     has_border: false
     background_image_opacity: 6
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: grid_section
     template: grid_section
     grid_items:
