@@ -84,8 +84,8 @@ sections:
         content: >
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
-          d'information**... Que votre projet soit grand ou petit, des outils
-          efficaces existent pour leur (re)donner vie sans se ruiner.
+          d'information**, télétravail... Que votre projet soit grand ou petit,
+          des outils efficaces existent pour lui (re)donner vie sans se ruiner.
         actions:
           - type: action
             template: action
