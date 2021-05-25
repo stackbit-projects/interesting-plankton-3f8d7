@@ -1,4 +1,6 @@
-title: 'Votre Conseiller Numérique : au service de la réussite de votre projets '
+title: >-
+  Votre Conseiller Numérique : au service de la réussite de votre projets
+  digitaux
 baseURL: /
 params:
   layout_type: boxed
