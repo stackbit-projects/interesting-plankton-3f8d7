@@ -102,7 +102,7 @@ sections:
       - type: feature
         template: feature
         title: Sélectionner les meilleures technos
-        subtitle: Pour construire de façon pérenne
+        subtitle: Pour construire sur de bonnes bases
         content: >+
           Trouver et assembler des solutions techniques (langages, librairies,
           frameworks, logiciels...) tout à la fois rapides, robustes et
