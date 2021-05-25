@@ -1,5 +1,5 @@
 ---
-title: Votre Conseiller numériques
+title: Votre Conseiller Numériques
 sections:
   - type: hero_section
     template: hero_section
