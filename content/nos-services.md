@@ -18,7 +18,7 @@ sections:
       pose très souvent au démarrage d'un projet.
     has_border: false
     background_image: /images/watercolor.png
-    background_image_opacity: 10
+    background_image_opacity: 6
   - type: grid_section
     template: grid_section
     grid_items:
