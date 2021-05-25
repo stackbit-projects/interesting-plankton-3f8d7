@@ -70,6 +70,6 @@ Nous aimons tout autant Vim que Emacs et sommes pour la plupart abonnés à Linu
 
 Nous n'habitons plus depuis longtemps dans la cave de nos parents !
 
-Nous raffolons des casse-têtes 
+Nous les casse-têtes sont notre lot quotidien !
 
-![](https://i.imgur.com/sW8dtBp.jpg)
+![](https://i.imgur.com/qTV8jyd.jpg)
