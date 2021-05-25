@@ -70,10 +70,6 @@ Nous aimons les ordinateurs de légende !
 
 ![](https://i.imgur.com/IKHDfD3.jpg)
 
-Nous sommes toujours à l'affut de nouvelles technologies !
-
-![](https://i.imgur.com/bZdE34n.jpg)
-
 Les casse-têtes sont notre lot quotidien !
 
 ![](https://i.imgur.com/rMKynm5.jpg)
