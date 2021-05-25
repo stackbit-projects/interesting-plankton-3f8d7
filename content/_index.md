@@ -85,7 +85,7 @@ sections:
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
           d'information**... Que votre projet soit grand ou petit, des outils
-          simples et efficaces existent pour leur (re)donner vie sans se ruiner.
+          efficaces existent pour leur (re)donner vie sans se ruiner.
         actions:
           - type: action
             template: action
