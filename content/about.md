@@ -36,7 +36,7 @@ Chaque Conseiller Numérique est un **travailleur indépendant** au profil diff�
 
 Tous sont des geeks passionnés le numérique, ayant à cœur de partager leurs connaissances avec les membres du réseau Votre Conseiller Numérique et de les mettre au profit de chaque demandeur.
 
-Au fait des dernières technologies et évolutions du marché, il peut être ou avoir été :
+Au fait des dernières technologies et évolutions du marché, il peut être  :
 
 *   chef de projet
 
@@ -66,16 +66,16 @@ Certains d'entre nous ont utilisé AltaVista et Nomade.
 
 Nous sommes ouverts à des projets de collaboration autour de services innovants.
 
-Nous ne sommes pas tous barbus et n'habitons pas ou plus dans la cave de nos parents !
+Nous ne sommes pas tous barbus et n'habitons pas ou plus dans la cave de nos parents .
 
-Nous aimons les ordinateurs de légende !
+Nous aimons les ordinateurs de légende.
 
 ![](https://i.imgur.com/IKHDfD3.jpg)
 
-Les casse-têtes sont notre lot quotidien !
+Les casse-têtes sont notre lot quotidien.
 
 ![](https://i.imgur.com/rMKynm5.jpg)
 
-Mais nous sommes toujours super contents quand nous parvenons à les résoudre !
+Mais nous sommes toujours super contents quand nous parvenons à les résoudre.
 
 ![](https://i.imgur.com/QnS2nWY.jpg)
