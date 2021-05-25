@@ -11,8 +11,11 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: primary
-    content: |
-      par où commencer
+    content: >
+      Par où commencer ? Comment faire ? Quelle solution choisir ? Cet outil
+      est-il vraiment adapté ? À qui faire appel ? Comment évaluer techniquement
+      cette offre ? Le prix est-il justifié ? Voilà autant de questions qu'on se
+      pose très souvent au démarrage d'un projet.
   - type: grid_section
     template: grid_section
     grid_items:
