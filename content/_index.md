@@ -265,7 +265,7 @@ seo:
   title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique"
   description: >-
     Conseils, assistance et accompagnement pour réussir vos projets digitaux :
-    sites internet, e-commerce, mobile
+    site internet, e-commerce, appli mobile
   extra:
     - name: 'og:type'
       value: website
