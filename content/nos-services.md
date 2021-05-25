@@ -1,5 +1,5 @@
 ---
-title: 'Votre Conseiller Numérique : nos '
+title: 'Votre Conseiller Numérique : découvrez '
 sections:
   - type: hero_section
     template: hero_section
