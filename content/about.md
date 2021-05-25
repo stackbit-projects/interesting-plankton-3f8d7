@@ -72,5 +72,10 @@ Nous n'habitons plus depuis longtemps dans la cave de nos parents !
 
 Les casse-têtes sont notre lot quotidien !
 
-![](https://i.imgur.com/EaRamFd.jpg)
+![](https://i.imgur.com/rMKynm5.jpg)
 
+Mais nous sommes toujours super content quand nous parvenons à les résoudre !
+
+
+
+![](https://i.imgur.com/QnS2nWY.jpg)
