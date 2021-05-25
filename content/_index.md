@@ -104,23 +104,13 @@ sections:
         title: Sélectionner les meilleures technos
         subtitle: Pour construire sur de bonnes bases
         content: >+
-          Trouver et assembler des solutions techniques (langages, librairies,
-          frameworks, logiciels...) tout à la fois rapides, robustes et
-          pérennes, voilà notre mission.
-
-
-          rapidité, simplexité et résilience 
-
-
-
-
-
-
-
-
           Nous analysons votre besoin et vous recommandons les solutions les
           plus adaptées, celles qui répondent à vos objectifs tout en respectant
           votre budget.
+
+
+          Trouver des solutions techniques tout à la fois rapides, robustes et
+          pérennes, voilà notre mission.
 
         actions:
           - type: action
