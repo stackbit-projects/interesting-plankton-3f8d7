@@ -16,7 +16,7 @@ sections:
     background_image_opacity: 6
     actions:
       - label: Nos offres et tarifs
-        url: '#'
+        url: /offres
         style: primary
         has_icon: true
         icon: arrow-right
