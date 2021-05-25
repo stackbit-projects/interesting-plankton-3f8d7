@@ -79,7 +79,7 @@ sections:
     features:
       - type: feature
         template: feature
-        title: Chosir les bons outils
+        title: Choisir les bons outils
         subtitle: Pour réussir votre projet petit ou grand
         content: >
           **Site web**, boutique en ligne, **application mobile**, plateforme
