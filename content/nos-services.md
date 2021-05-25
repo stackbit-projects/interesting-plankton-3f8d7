@@ -16,10 +16,8 @@ sections:
       adapté ? À qui faire appel ? Comment évaluer techniquement cette offre ?
       Le prix est-il justifié ? Voilà **autant de questions qu'on se pose
       souvent au démarrage d'un projet**. Le rôle de Votre Conseiller Numérique
-      est justement d'y répondre.
-
-
-      > Mettez toutes les chances de vôtre côté pour réussir votre projet 
+      est justement d'y répondre.** Mettez toutes les chances de votre côté**
+      pour réussir votre projet
     has_border: false
     background_image_opacity: 6
   - type: grid_section
