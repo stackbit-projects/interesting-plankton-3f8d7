@@ -57,7 +57,7 @@ params:
         no_follow: false
     has_secondary_nav: false
     has_anncmnt: false
-    logo: /images/enthusiastic-onion.svg
+    logo: /images/logo-conseiller-numerique.svg
     title: ''
     secondary_nav_links: []
     anncmnt_content: ''
