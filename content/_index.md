@@ -132,7 +132,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: See Past Work
+            label: Nos services
             url: /faq
             style: primary
             has_icon: true
