@@ -17,6 +17,7 @@ sections:
       cette offre ? Le prix est-il justifié ? Voilà autant de questions qu'on se
       pose très souvent au démarrage d'un projet.
     has_border: false
+    background_image: /images/watercolor.png
   - type: grid_section
     template: grid_section
     grid_items:
