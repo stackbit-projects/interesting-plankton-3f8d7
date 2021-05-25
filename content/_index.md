@@ -104,19 +104,15 @@ sections:
         title: Sélectionner les meilleures technos
         subtitle: Pour construire sur de bonnes bases
         content: >
-          Langages, librairies, frameworks, logiciels libres, cloud ou growth
-          hacking. Nous analysons votre besoin et vous recommandons les
-          solutions les plus adaptées, celles qui répondent à vos objectifs tout
-          en respectant votre budget.
+          Nous analysons votre besoin et vous recommandons les **solutions
+          techniques les plus adaptées**, celles qui répondent à vos objectifs
+          tout en respectant votre budget. Rapidité, simplexité et durabilité
+          font partie de nos critères constants d'évaluation.
 
 
-          Identifier, comparer et savoir assembler
-
-
-          solutions techniques tout à la fois rapides, robustes et pérennes,
-
-
-          voilà notre mission.
+          Connaître, comparer et savoir assembler les technologies, des
+          standards du marché aux plus innovantes, pour vous faire faire les
+          bons choix, telle est notre mission.
         actions:
           - type: action
             template: action
