@@ -103,9 +103,16 @@ sections:
         title: Sélectionner les meilleures technos
         subtitle: Pour construire de façon pérenne
         content: >
-          Trouver et **assembler des solutions techniques **simples et
+          Trouver et \*\*assembler des solutions techniques \*\*simples et
           efficaces, tout à la fois rapides, robustes et pérennes, voilà notre
           mission.
+
+
+
+
+          Nous analysons votre besoin et vous recommandons les solutions les
+          plus adaptées, celles qui répondent à vos objectifs tout en respectant
+          votre budget.
         actions:
           - type: action
             template: action
