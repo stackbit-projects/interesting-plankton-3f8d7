@@ -83,13 +83,12 @@ sections:
         template: feature
         title: Pour tous vos projets
         subtitle: Qu'ils soient grands ou petits
-        content: >+
+        content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
           publicité digitale, sécurité informatique, système d'information...
           Nous analysons votre besoin et vous recommandons les solutions les
-          plus adaptées ; nous vous aidons à sélectionner les compétences
-          nécessaires et à vous assurer de la qualité du travail réalisé.
-
+          plus adaptées ; vous aidons à sélectionner les compétences nécessaires
+          ; nous nous assurerons de la qualité du travail réalisé.
         actions:
           - type: action
             template: action
