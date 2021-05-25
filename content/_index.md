@@ -82,7 +82,7 @@ sections:
       - type: feature
         template: feature
         title: Pour tous vos projets
-        subtitle: Pour réussir vos projets plus facilement
+        subtitle: Qu'ils soient grands ou petits
         content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
           publicité digitale, sécurité informatique... Nous analysons votre
