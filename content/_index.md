@@ -93,7 +93,7 @@ sections:
           - type: action
             template: action
             label: See Writing Samples
-            url: /nos
+            url: /nos-services
             style: primary
             has_icon: true
             icon: arrow-right
