@@ -72,4 +72,4 @@ Nous n'habitons plus depuis longtemps dans la cave de nos parents !
 
 Nous les casse-têtes sont notre lot quotidien !
 
-![](https://i.imgur.com/qTV8jyd.jpg)
+![](https://i.imgur.com/EaRamFd.jpg)
