@@ -133,7 +133,7 @@ sections:
           - type: action
             template: action
             label: Nos services
-            url: /faq
+            url: /nos-services
             style: primary
             has_icon: true
             icon: arrow-right
