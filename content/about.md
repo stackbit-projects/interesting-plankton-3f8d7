@@ -34,9 +34,9 @@ Chaque Conseiller Numérique est un **travailleur indépendant** au profil diff�
 
 > Le digital c'est complexe, mais pas compliqué. Surtout quand on est bien accompagné !
 
-Tous sont des geeks passionnés par le numérique, ayant à cœur de partager leurs connaissances avec les membres du réseau Votre Conseiller Numérique et de les mettre au profit de chaque demandeur.
+Tous sont des geeks passionnés le numérique, ayant à cœur de partager leurs connaissances avec les membres du réseau Votre Conseiller Numérique et de les mettre au profit de chaque demandeur.
 
-Au fait des dernières technologies et évolutions du marché, il peut être :
+Au fait des dernières technologies et évolutions du marché, il peut être ou avoir été :
 
 *   chef de projet
 
@@ -54,7 +54,7 @@ Au fait des dernières technologies et évolutions du marché, il peut être :
 
 *   graphiste, traducteur, rédacteur, juriste...
 
-À chaque demande et en fonction de sa complexité, il **mobilise l'expertise nécessaire** au sein du réseau pour vous apporter les meilleures réponses. Cette connaissance approfondie des solutions existantes et de la manière de les assembler est au cœur des compétences de chaque Conseiller Numérique.
+À chaque demande et en fonction de sa complexité, il **mobilise l'expertise nécessaire** au sein du réseau pour vous apporter les meilleures réponses. Cette connaissance approfondie des solutions existantes et de la manière de les assembler est au cœur des compétences de chaque conseiller.
 
 ### Un peu plus sur nous :
 
