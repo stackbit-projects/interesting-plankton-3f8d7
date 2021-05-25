@@ -12,11 +12,14 @@ sections:
     padding_bottom: small
     background_color: primary
     content: >
-      Par où commencer ? Comment faire ? Quelle solution choisir ? Cet outil
-      est-il vraiment adapté ? À qui faire appel ? Comment évaluer techniquement
-      une offre ? Le prix est-il justifié ? Voilà **autant de questions qu'on se
-      pose souvent au démarrage d'un projet**. Le rôle de Votre Conseiller
-      Numérique est justement d'y répondre 
+      Par où commencer ? Quelle solution choisir ? Cet outil est-il vraiment
+      adapté ? À qui faire appel ? Comment évaluer techniquement cette offre ?
+      Le prix est-il justifié ? Voilà **autant de questions qu'on se pose
+      souvent au démarrage d'un projet**. Le rôle de Votre Conseiller Numérique
+      est justement d'y répondre.
+
+
+      > Mettez toutes les chances de vôtre côté pour réussir votre projet 
     has_border: false
     background_image_opacity: 6
   - type: grid_section
