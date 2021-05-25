@@ -27,7 +27,7 @@ Nos dettes de reconnaissances vont à :
 
 ### Motorisation du site
 
-Steve Francia, Bjorn Erik Pedersen et toute la communauté qui travaillent à développer HUGO, un générateur de site statique écrit en Go et ultra-performant.
+Steve Francia, Bjorn Erik Pedersen et toute la communauté qui travaillent à développer [HUGO](https://gohugo.io/), un générateur de site statique et ultra-performant écrit en Go.
 
 *   [Forestry ](https://forestry.io/)pour leur CMS basé sur Git et dédié aux sites statiques.
 
@@ -43,6 +43,8 @@ Steve Francia, Bjorn Erik Pedersen et toute la communauté qui travaillent à d�
 
 *   [SVG Repo](https://www.svgrepo.com/) pour le Rubiks Cube dans le logo.
 
-*   MO5.COM pour la photo des ordinateurs de légendes.
+*   [MO5.COM](https://mo5.com/) pour le photomontage des ordinateurs.
 
 *   [Pixabay ](https://pixabay.com)pour les photos du Rubiks Cube et des enfants fous de joie.
+
+*   [Storyset ](https://storyset.com/)pour les 3 images vectorielles illustrant la page d'accueil.
