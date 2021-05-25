@@ -68,7 +68,7 @@ params:
   footer:
     type: footer
     template: footer
-    logo: /images/green-maple.svg
+    logo: /images/logo-conseiller-numerique.svg
     logo_alt: Alyvia logo
     has_primary_nav: true
     primary_nav_links:
