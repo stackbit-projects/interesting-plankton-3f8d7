@@ -82,7 +82,7 @@ sections:
       - type: feature
         template: feature
         title: Chosir les bons outils
-        subtitle: Qu'ils soient grands ou petits
+        subtitle: Que votre projet soit grand ou petit
         content: >
           Site web, boutique en ligne, application mobile, plateforme métier,
           publicité digitale, sécurité informatique, système d'information...
