@@ -16,6 +16,7 @@ sections:
       est-il vraiment adapté ? À qui faire appel ? Comment évaluer techniquement
       cette offre ? Le prix est-il justifié ? Voilà autant de questions qu'on se
       pose très souvent au démarrage d'un projet.
+    has_border: true
   - type: grid_section
     template: grid_section
     grid_items:
