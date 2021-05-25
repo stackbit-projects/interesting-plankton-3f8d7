@@ -110,9 +110,9 @@ sections:
           font partie de nos constants critères d'évaluation.
 
 
-          Connaître, comparer et **savoir assembler les bonnes briques
+          Connaître, comparer et savoir assembler les **briques
           technologiques**, des standards du marché aux dernières innovations,
-          pour vous faire **faire des choix éclairés**, telle est la mission de
+          pour vous faire **faire les bons choix**, telle est la mission de
           Votre Conseiller Numérique.
         actions:
           - type: action
