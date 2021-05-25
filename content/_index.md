@@ -72,7 +72,7 @@ sections:
     align: center
     actions: []
     subtitle: OUTILS & TECHNOS
-    title: 'Faire de bons choix, ça ne s''improvise pas !'
+    title: 'Faire les bons choix, ça ne s''improvise pas !'
   - type: features_section
     template: features_section
     title: Des conseils et un accompagnement personnalisés
