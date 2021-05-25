@@ -6,7 +6,7 @@ sections:
     title: L'expertise du digital accessible au plus grand nombre
     subtitle: >-
       Des services à la carte, des conseils personnalisés et une expertise
-      indépendante pour réussir votre projet sans se tromper.
+      indépendante pour réussir votre projet sans se tromper !
     align: center
     padding_top: medium
     padding_bottom: small
