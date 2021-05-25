@@ -80,7 +80,7 @@ sections:
       - type: feature
         template: feature
         title: Chosir les bons outils
-        subtitle: Que votre projet soit grand ou petit
+        subtitle: 'Pour réussir votre projet, petit ou grand'
         content: >
           **Site web**, boutique en ligne, **application mobile**, plateforme
           métier, **publicité digitale**, sécurité informatique, **système
