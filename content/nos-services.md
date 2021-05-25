@@ -38,6 +38,30 @@ sections:
         template: grid_item
         title: 'Un parti pris technologique : le pragmatisme'
         content: "\U0001F3AF Notre but est de trouver des **solutions simples et efficaces** qui répondent à votre besoin, quelles soient sur votre poste de travail, votre réseau, votre mobile, chez un hébergeur ou dans le cloud.\n\nSi des solutions libres, bien documentées et adossées à des communautés actives, tant mieux ! Si elles sont à la fois **rapides, souples et solides**, c'est encore mieux ! Mais le meilleur parti pris est toujours celui du pragmatisme, c’est-à-dire la capacité à s'adapter au contexte et à faire le maximum avec les moyens dont on dispose.\n\nPour un même projet, les choix peuvent être radicalement différents. Parfois, une solution internalisée s'impose pour préserver votre indépendance ; d'autres fois un ou plusieurs outils cloud vous feront gagner énormément de temps.\n\nComme dans un **Rubikub,** les combinaisons sont innombrables. Nous les évaluons et trouvons celles qui s'emboitent bien !\n"
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: two
     grid_gap_vert: medium
     grid_gap_horiz: medium
