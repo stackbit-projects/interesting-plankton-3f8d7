@@ -1,5 +1,5 @@
 ---
-title: Nos services
+title: Nos services numériques
 sections:
   - type: hero_section
     template: hero_section
