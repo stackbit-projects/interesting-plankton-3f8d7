@@ -262,7 +262,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Votre Conseiller Numérique
+  title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique"
   description: 'Répondre à vos questions, faire les bons choix, accompagner votre projet'
   extra:
     - name: 'og:type'
