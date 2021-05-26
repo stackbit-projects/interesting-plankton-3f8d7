@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 'Contactez '
 sections:
   - type: hero_section
     template: hero_section
