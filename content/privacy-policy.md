@@ -3,25 +3,36 @@ title: Politique de confidentialité
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Privacy Policy
-  description: This is the privacy policy page
+  title: 'Votre Conseiller Numérique : notre Politique de Confidentialité '
+  description: Vos données vous appartiennent !
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Privacy Policy
-      keyName: property
-    - name: 'og:description'
-      value: This is the privacy policy page
-      keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Privacy Policy
-    - name: 'twitter:description'
-      value: This is the privacy policy page
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Privacy Policy
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the privacy policy page
+    keyName: property
+    relativeUrl: false
+  - name: twitter:card
+    value: summary
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Privacy Policy
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the privacy policy page
+    keyName: ''
+    relativeUrl: false
+  robots: []
 layout: page
+
 ---
 Elle est extrêmement simple : **vos données vous appartiennent** et vous en faites ce que vous voulez.
 
