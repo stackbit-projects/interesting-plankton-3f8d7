@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     template: hero_section
     title: Bien reçu !
-    subtitle: >-
-      Nous avons bien reçu votre message et allons vous répondre très
-      rapidement.
+    subtitle: Un conseiller va revenir vers vous dans les meilleurs délais.
     actions:
       - type: action
         template: action
