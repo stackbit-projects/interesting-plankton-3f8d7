@@ -6,7 +6,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-title: Nos offres et tarifs
+title: Nos offres et tarifss
 ---
 D'une simple question, **sans aucun engagement de votre part**, à un suivi complet de votre projet, nos offres s'adaptent à vos besoins. À tout moment vous restez libre de continuer ou pas à faire appel à Votre Conseiller Numérique et si vous n'étiez pas satisfait, et bien **nous vous remboursons !**
 
