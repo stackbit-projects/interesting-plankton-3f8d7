@@ -438,7 +438,8 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique"
+  title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique : pour ne pas se tromper
+    !"
   description: 'Assistance et accompagnement de vos projets digitaux : site internet,
     e-commerce, application mobile, système d''information...'
   extra:
