@@ -5,8 +5,8 @@ sections:
     template: hero_section
     title: Bien reçu !
     subtitle: >-
-      Un conseiller va revenir vers vous dans les meilleurs délais pour étudier
-      votre besoin
+      Merci pour votre message. Un conseiller va revenir vers vous dans les
+      meilleurs délais pour analyser votre besoin
     actions:
       - type: action
         template: action
