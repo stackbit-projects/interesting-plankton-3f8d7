@@ -1,5 +1,5 @@
 ---
-title: Contactez Votre Conseiller Numérique
+title: Contact
 sections:
 - type: hero_section
   template: hero_section
@@ -96,8 +96,8 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Contactez Votre Conseiller Numérique
-  description: Contactez gratuitement Votre Conseiller Numérique
+  title: Contactez gratuitement Votre Conseiller Numérique
+  description: Un expert répond à vos questions
   extra:
   - name: og:type
     value: website
