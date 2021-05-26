@@ -1,5 +1,5 @@
 ---
-title: 'Votre Conseiller Numérique : l''exp'
+title: 'Votre Conseiller Numérique : l''expertise du digital accessible '
 sections:
   - type: hero_section
     template: hero_section
