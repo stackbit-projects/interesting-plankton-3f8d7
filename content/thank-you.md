@@ -13,6 +13,7 @@ sections:
         has_icon: true
         icon: arrow-left
         icon_position: left
+        label: Page d'accueil
     align: center
     padding_bottom: large
     background_color: none
