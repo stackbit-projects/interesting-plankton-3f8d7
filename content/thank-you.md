@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     template: hero_section
     title: Bien reçu !
-    subtitle: Un conseiller va revenir vers vous dans les meilleurs délais.
+    subtitle: >-
+      Un conseiller va revenir vers vous dans les meilleurs délais pour étudier
+      votre besoin
     actions:
       - type: action
         template: action
