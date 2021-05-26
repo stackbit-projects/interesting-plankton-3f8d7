@@ -1,5 +1,5 @@
 ---
-title: Un réseau de passionnés aux compétences complémentaires
+title: 'Votre Conseiller Numérique : un réseau d''ex'
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
