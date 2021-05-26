@@ -11,7 +11,7 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: primary
-    content: "Par où commencer ? Quelle solution choisir ? À qui faire appel ? Comment évaluer cette offre et s'assurer de la qualité du travail réalisé ? Voilà **autant de questions qu'on se pose au démarrage d'un projet**. Le rôle de Votre Conseiller Numérique est d'y répondre, de vous donner toutes les clés et l'assistance nécessaire à l'entière réussite votre projet digital \U0001F680\n"
+    content: "Par où commencer ? Quelle solution choisir ? À qui faire appel ? Comment évaluer l'offre et le travail réalisé ? Voilà **autant de questions qu'on se pose au démarrage d'un projet**. Le rôle de Votre Conseiller Numérique est d'y répondre, de vous donner toutes les clés et l'assistance nécessaire à réussite votre projet digital \U0001F680\n"
     has_border: false
     background_image_opacity: 6
     actions:
