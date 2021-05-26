@@ -1,5 +1,5 @@
 ---
-title: 'Votre Conseiller Numérique : réseau d''experts au s'
+title: 'Votre Conseiller Numérique : résea'
 sections:
   - type: hero_section
     template: hero_section
