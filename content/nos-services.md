@@ -1,5 +1,5 @@
 ---
-title: 'Votre Conseiller Numérique : nos services'
+title: 'Votre Conseiller Numérique : nos services pour réusssir vos projets digitaux'
 sections:
   - type: hero_section
     template: hero_section
