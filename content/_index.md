@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Votre '
 sections:
   - type: hero_section
     template: hero_section
