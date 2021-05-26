@@ -8,7 +8,6 @@ sections:
     actions:
       - type: action
         template: action
-        label: Back to homepage
         url: /
         style: primary
         has_icon: true
