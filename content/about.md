@@ -3,8 +3,8 @@ title: Un réseau d'experts aux compétences étendues
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 'Votre Conseiller Numérique : un réseau d''experts'
-  description: Un réseau d'experts au compétences étendues
+  title: 'Votre Conseiller Numérique : un réseau d''experts aux compétences étendues'
+  description: Toutes les compétences pour vous accompagner dans votre projet digital
   extra:
   - name: og:type
     value: website
