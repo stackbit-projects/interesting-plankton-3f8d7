@@ -13,7 +13,7 @@ sections:
     padding_top: medium
     padding_bottom: small
     background_color: primary
-    content: "Par où commencer ? Quelle solution choisir ? À qui faire appel ? Comment évaluer la qualité technique ? Le prix est-il justifié ? Voilà **autant de questions qu'on se pose au démarrage d'un projet**. Votre Conseiller Numérique répond à  vos questions, vous donne toutes les clés et l'assistance nécessaire à la réussite de votre projet digital \U0001F680\n"
+    content: "Par où commencer ? Quelle solution choisir ? À qui faire appel ? Comment évaluer la qualité technique ? Le prix est-il justifié ? Voilà **autant de questions qu'on se pose au démarrage d'un projet**. Votre Conseiller Numérique y répond, vous donne toutes les clés et l'assistance nécessaire à la réussite de votre projet digital \U0001F680\n"
     has_border: false
     background_image_opacity: 6
     actions:
