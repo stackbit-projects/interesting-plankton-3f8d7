@@ -1,5 +1,5 @@
 ---
-title: Un réseau d'experts au service de vos projets digitaux
+title: Un réseau d'experts aux compétences étendues
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
