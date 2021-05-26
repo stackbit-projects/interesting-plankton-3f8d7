@@ -1,5 +1,5 @@
 ---
-title: 'Votre Conseiller Numérique : un réseau d''experts '
+title: 'Votre Conseiller Numérique : un réseau d''experts pour réussir vos projets'
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
