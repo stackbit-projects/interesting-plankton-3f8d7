@@ -1,10 +1,10 @@
 ---
-title: Un réseau d'experts aux compétences étenduesaaaaa
+title: Un réseau d'experts aux compétences étendues
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: About
-  description: This is the about page
+  title: 'Votre Conseiller Numérique : un réseau d''experts'
+  description: Un réseau d'experts au compétences étendues
   extra:
   - name: og:type
     value: website
