@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     template: hero_section
-    title: Merci !
+    title: Bien reçu !
     subtitle: >-
       Nous avons bien reçu votre message et allons vous répondre très
       rapidement.
