@@ -1,7 +1,5 @@
 ---
-title: >-
-  Votre Conseiller Numérique : assistance et accompagnement de vos projets
-  digitaux
+title: 'Votre Conseiller Numérique : au service de tous vos projets digitaux'
 sections:
   - type: hero_section
     template: hero_section
