@@ -166,7 +166,7 @@ params:
         no_follow: false
     content: >-
       &copy; Votreconseillernumerique.com / 2021 / Site propulsé par Hugo, 
-      https://gohugo.io/
+      
 
       <a href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>
