@@ -166,11 +166,7 @@ params:
         no_follow: false
     content: >-
       &copy; Votreconseillernumerique.com / 2021 / Site propulsé par <a href="https://gohugo.io/"
-      target="_blank" rel="noopener">HUGO</a>, administré avec  
-
-      
-
-   <a href="https://forestry.io/"
+      target="_blank" rel="noopener">HUGO</a>, administré avec <a href="https://forestry.io/"
       target="_blank" rel="noopener">Forestry</a>.
 
       
