@@ -165,7 +165,7 @@ params:
         new_window: true
         no_follow: false
     content: >-
-      &copy; VotreConseillerNumerique.com / 2021 / Site propulsé par <a
+      &copy; VotreConseillernumerique.com / 2021 / Site propulsé par <a
       href="https://gohugo.io/" target="_blank" rel="noopener">HUGO</a> et
       administré avec <a href="https://forestry.io/" target="_blank"
       rel="noopener">Forestry</a> et <a href="https://www.stackbit.com/"
