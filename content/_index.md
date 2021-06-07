@@ -453,8 +453,8 @@ seo:
   template: stackbit_page_meta
   title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique : pour ne pas se planter !"
   description: >
-    Assistance et accompagnement de vos projets digitaux : web, mobile, SI,
-    e-commerce, e-marketing
+    Assistance et accompagnement de vos projets digitaux : web, mobile, cyber,
+    SI, e-commerce, e-marketing
   extra:
     - name: 'og:type'
       value: website
