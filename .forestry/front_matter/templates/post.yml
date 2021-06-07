@@ -93,5 +93,4 @@ fields:
     config:
       required: true
 pages:
-  - content/blog/test.md
   - content/blog/test2.md
