@@ -92,5 +92,4 @@ fields:
     default: post
     config:
       required: true
-pages:
-  - content/blog/test2.md
+pages: []
