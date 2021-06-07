@@ -451,7 +451,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: 'Votre Conseiller Numérique : pour ne pas se tromper !'
+  title: '&#129315 Votre Conseiller Numérique : pour ne pas se tromper !'
   description: >-
     Assistance et accompagnement de vos projets digitaux : site internet,
     e-commerce, application mobile, système d'information...
