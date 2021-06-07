@@ -451,7 +451,7 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique : pour ne pas se planter !"
+  title: "\U0001F468‍\U0001F4BB Votre Conseiller Numérique : pour ne pas se tromper !"
   description: >
     Assistance et accompagnement de vos projets digitaux : web, mobile, cyber,
     data, business... Mettez un expert de votre côté.
