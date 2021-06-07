@@ -290,7 +290,7 @@ sections:
           usage.
 
 
-          **Antoine** *a.k.a.* "Ptit Bob"  *Dev Fullstack*
+          **Antoine** *a.k.a.* "Gimli"  *Dev Fullstack*
         image: /images/conseiller-numerique-dev-fullstack.png
         image_position: left
         image_width: twenty-five
