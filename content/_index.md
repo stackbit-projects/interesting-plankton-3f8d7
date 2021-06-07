@@ -454,7 +454,7 @@ seo:
   title: '&#129315 Votre Conseiller Numérique : pour ne pas se tromper !'
   description: >-
     Assistance et accompagnement de vos projets digitaux : site internet,
-    e-commerce, application mobile, système d'information...
+    e-commerce, application mobile, système d'information... &#129315;
   extra:
     - name: 'og:type'
       value: website
