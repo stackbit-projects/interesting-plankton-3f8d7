@@ -6,47 +6,44 @@ seo:
   title: 'Votre Conseiller Numérique : un réseau d''experts aux compétences étendues'
   description: Toutes les compétences pour vous accompagner dans votre projet digital
   extra:
-  - name: og:type
-    value: website
-    keyName: property
-    relativeUrl: false
-  - name: og:title
-    value: About
-    keyName: property
-    relativeUrl: false
-  - name: og:description
-    value: This is the about page
-    keyName: property
-    relativeUrl: false
-  - name: og:image
-    value: images/about.jpg
-    keyName: property
-    relativeUrl: true
-  - name: twitter:card
-    value: summary_large_image
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:title
-    value: About
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:description
-    value: This is the about page
-    keyName: ''
-    relativeUrl: false
-  - name: twitter:image
-    value: images/about.jpg
-    relativeUrl: true
-    keyName: ''
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
+    - name: 'og:title'
+      value: About
+      keyName: property
+      relativeUrl: false
+    - name: 'og:description'
+      value: This is the about page
+      keyName: property
+      relativeUrl: false
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:title'
+      value: About
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:description'
+      value: This is the about page
+      keyName: ''
+      relativeUrl: false
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
+      keyName: ''
   robots: []
 layout: page
-
 ---
 Chaque Conseiller Numérique est un **travailleur indépendant** au profil différent, parfois issu d'une école d'ingénieur ou totalement autodidacte, mais qui dispose d'**au moins dix ans d'expérience** dans son domaine.
 
-> Le digital c'est complexe, mais pas compliqué. Surtout quand on est bien accompagné !
-
-Tous sont des geeks passionnés le numérique, ayant à cœur de partager leurs connaissances avec les membres du réseau et de les mettre au profit de chaque demandeur.
+Tous sont des passionnés ayant à cœur de partager leurs connaissances avec les membres du réseau et de les mettre au profit de chaque demandeur.
 
 Au fait des dernières technologies et évolutions du marché, il peut être  :
 
@@ -91,3 +88,7 @@ Les casse-têtes sont notre lot quotidien.
 Mais nous sommes toujours super contents quand nous parvenons à les résoudre.
 
 ![](https://i.imgur.com/QnS2nWY.jpg)
+
+
+
+> Le digital c'est complexe, mais pas compliqué. Surtout quand on est bien accompagné !
