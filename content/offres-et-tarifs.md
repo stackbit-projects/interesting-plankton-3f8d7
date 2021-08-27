@@ -20,14 +20,14 @@ D'une simple question, **sans aucun engagement de votre part**, à un suivi comp
 
 4.  Vous avez besoin d'un **suivi personnalisé de l'ensemble de votre projet** : en complément des missions précédentes, nous effectuons un contrôle qualité en continu du travail réalisé par votre prestataire, veillons au parfait achèvement du projet et à la conformité du résultat final ; à travers des points réguliers avec vous et des échanges constants avec le prestataire retenu
 
-###### Niveaux 1, 2 et 3 : tarif horaire de 49 € HT
+###### Niveaux 1, 2 et 3 : tarif horaire de 50 € HT
 
-###### Niveau 4 : honoraires correspondant à 9% du coût total HT du projet
+###### Niveau 4 : honoraires correspondant à 10 % du coût total HT du projet
 
 ### Nos packs
 
-*   Pack **"privacy"** à 290 € : tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
+*   Pack **"privacy"** (réservé aux particuliers) à 250 € : tous les outils pour protéger votre vie privée et la confidentialité de vos échanges
 
-*   Pack **audit qualité de votre site** ou application web à partir de 490 € : nous mesurons tous les paramètres clés de votre site (performances, sécurité, compatibilité, accessibilité, optimisation) et établissons une liste précise de recommandations pour améliorer chacun de ces paramètres.
+*   Pack **audit qualité de votre site** ou application web à 700 € : nous mesurons tous les paramètres clés de votre site (performances, sécurité, compatibilité, accessibilité, optimisation) et établissons une liste précise de recommandations pour améliorer chacun de ces paramètres.
 
-*   Pack **audit de votre système d'information** à partir de 1690 € : nous analysons tous les outils que vous utilisez au regard de vos objectifs et vous faisons part sans "langue de bois" de ce qui marche bien ou pas, de ce que vous pourriez faire de mieux, comment et à quel prix. Pas de rapport inexploitable de deux cents pages, mais du concret, compréhensible et exploitable de suite.
+*   Pack **audit de votre système d'information** à 2 500 € : nous analysons tous les outils que vous utilisez au regard de vos objectifs et vous faisons part sans "langue de bois" de ce qui marche bien ou pas, de ce que vous pourriez faire de mieux, comment et à quel prix. Pas de rapport inexploitable de deux cents pages, mais du concret, compréhensible et exploitable de suite.
